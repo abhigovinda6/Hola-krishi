@@ -1,0 +1,4 @@
+field_id,farmer,taluk,area_acres,soil_ph,organic_carbon,irrigation,previous_crop
+F1,Ramesh,Harihara,3.0,6.8,0.62,canal,paddy
+F2,Lakshmi,Jagalur,5.0,7.9,0.38,none,cotton
+F3,Suresh,Channagiri,2.0,6.1,0.72,borewell,maize

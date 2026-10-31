@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+joblib>=1.3
+pydantic>=2.5
+streamlit>=1.30
+pytest>=7.4
+openpyxl>=3.1
+# optional
+imdlib>=0.1.20      # IMD gridded rainfall download (data/sources/fetch_imd.py)
+skl2onnx>=1.16      # export models for the TypeScript/Next.js app (export_onnx.py)
+playwright>=1.40    # screenshots only

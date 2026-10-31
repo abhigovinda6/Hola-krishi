@@ -1,0 +1,31 @@
+district,hq_town,lat,lon,geocoder
+BAGALKOT,Bagalkot,16.1793,75.6999,OSM Nominatim
+BANGALORE RURAL,Doddaballapura,13.293,77.5431,OSM Nominatim
+BELGAUM,Belagavi,16.1588,74.8889,OSM Nominatim
+BELLARY,Ballari,15.3483,76.8055,OSM Nominatim
+BENGALURU URBAN,Bengaluru,12.9768,77.5901,OSM Nominatim
+BIDAR,Bidar,18.0207,77.2487,OSM Nominatim
+BIJAPUR,Vijayapura,16.8144,75.8934,OSM Nominatim
+CHAMARAJANAGAR,Chamarajanagar,11.9544,77.1069,OSM Nominatim
+CHIKBALLAPUR,Chikkaballapur,13.0994,77.3887,OSM Nominatim
+CHIKMAGALUR,Chikkamagaluru,13.4059,75.6388,OSM Nominatim
+CHITRADURGA,Chitradurga,14.3049,76.5297,OSM Nominatim
+DAKSHIN KANNAD,Mangaluru,12.8698,74.843,OSM Nominatim
+DAVANGERE,Davanagere,14.2559,75.8303,OSM Nominatim
+DHARWAD,Dharwad,15.3707,75.1333,OSM Nominatim
+GADAG,Gadag,15.4167,75.6816,OSM Nominatim
+GULBARGA,Kalaburagi,17.2409,76.7697,OSM Nominatim
+HASSAN,Hassan,13.0302,76.1745,OSM Nominatim
+HAVERI,Haveri,14.718,75.3656,OSM Nominatim
+KODAGU,Madikeri,12.4215,75.7388,OSM Nominatim
+KOLAR,Kolar,13.1805,78.2669,OSM Nominatim
+KOPPAL,Koppal,15.5748,76.3118,OSM Nominatim
+MANDYA,Mandya,12.6369,76.7275,OSM Nominatim
+MYSORE,Mysuru,12.3041,76.653,OSM Nominatim
+RAICHUR,Raichur,16.0547,76.9004,OSM Nominatim
+RAMANAGARA,Ramanagara,12.72,77.3184,OSM Nominatim
+SHIMOGA,Shivamogga,13.9326,75.575,OSM Nominatim
+TUMKUR,Tumakuru,13.4193,76.881,OSM Nominatim
+UDUPI,Udupi,13.527,74.8732,OSM Nominatim
+UTTAR KANNAD,Karwar,14.8122,74.1323,OSM Nominatim
+YADGIR,Yadgir,16.5744,76.9254,OSM Nominatim

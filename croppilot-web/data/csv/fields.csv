@@ -1,0 +1,5 @@
+field_id,farmer,taluk,season,area_acres,soil_ph,soil_type,irrigation,previous_crop
+V1,Basavaraj,Vijayapura,Rabi,4.0,8.1,deep_black,none,jowar
+V2,Shantabai,Indi,Kharif,2.5,7.6,medium_black,protective,fallow
+D1,Mahantesh,Dharwad,Kharif,3.0,6.8,red,none,maize
+M1,Lakshmamma,Mandya,Kharif,2.0,7.2,red,full,paddy

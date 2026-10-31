@@ -1,0 +1,15 @@
+crop,label,label_kn,apy_name,seasons,price_source,agmarknet_key,msp_key_kharif,msp_key_rabi,cost_key,yield_factor,ph_min,ph_max,legume,repeat_ok,kharif_rainfed_soils,kharif_min_rain_mm,rabi_rainfed_soils,rabi_min_irrigation,harvest_kharif,harvest_rabi,rule_sources
+paddy,Paddy,ಭತ್ತ,Rice,Kharif,market,,paddy,,paddy,1.4925,5.0,8.0,0,1,any,1500.0,,full,0-10;0-11;0-12,,FAO Ecocrop pH; rainfed paddy only in high-rainfall (coastal/malnad) zones per UAS PoP; yield_factor converts DES rice to paddy (67% outturn)
+maize,Maize,ಮೆಕ್ಕೆಜೋಳ,Maize,Kharif;Rabi,market,maize,maize,maize,maize,1.0,5.5,7.8,0,0,any,500.0,,full,0-10;0-11;0-12,1-2;1-3;1-4,FAO Ecocrop; TNAU Agritech (rabi maize irrigated)
+jowar,Jowar (sorghum),ಜೋಳ,Jowar,Kharif;Rabi,market,,jowar_hybrid,jowar_maldandi,jowar,1.0,6.0,8.5,0,0,any,400.0,deep_black;medium_black,none,0-10;0-11,1-1;1-2;1-3,ICAR-IIMR: rabi sorghum on stored moisture of medium/deep black soils
+ragi,Ragi (finger millet),ರಾಗಿ,Ragi,Kharif,market,,ragi,,ragi,1.0,5.0,8.0,0,0,any,450.0,,full,0-11;0-12;1-1,,FAO Ecocrop; UAS Bangalore PoP
+bajra,Bajra (pearl millet),ಸಜ್ಜೆ,Bajra,Kharif,market,,bajra,,bajra,1.0,6.0,8.5,0,0,any,300.0,,full,0-9;0-10,,FAO Ecocrop; ICAR-AICRP pearl millet
+tur,Tur / red gram,ತೊಗರಿ,Arhar/Tur,Kharif,market,tur,tur,,tur,1.0,6.0,8.5,1,0,any,400.0,,full,0-12;1-1;1-2,,ICAR-IIPR: avoid continuous pigeonpea (wilt)
+moong,Green gram (moong),ಹೆಸರು,Moong(Green Gram),Kharif,market,moong,moong,,moong,1.0,6.0,8.0,1,0,any,350.0,,full,0-8;0-9;0-10,,ICAR-IIPR
+urad,Black gram (urad),ಉದ್ದು,Urad,Kharif,market,urad,urad,,urad,1.0,6.0,8.0,1,0,any,350.0,,full,0-9;0-10;0-11,,ICAR-IIPR
+groundnut,Groundnut,ಶೇಂಗಾ,Groundnut,Kharif;Rabi,market,,groundnut,groundnut,groundnut,1.0,6.0,7.8,1,0,medium_black;shallow_black;red,400.0,,full,0-10;0-11;0-12,1-3;1-4;1-5,ICAR-DGR: light/medium soils preferred; rabi groundnut irrigated
+soybean,Soybean,ಸೋಯಾಬೀನ್,Soyabean,Kharif,market,soybean,soybean,,soybean,1.0,6.0,7.5,1,0,deep_black;medium_black;red,600.0,,full,0-10;0-11;0-12,,ICAR-IISR (soybean)
+sunflower,Sunflower,ಸೂರ್ಯಕಾಂತಿ,Sunflower,Kharif;Rabi,market,,sunflower,sunflower,sunflower,1.0,6.5,8.5,0,0,any,400.0,deep_black;medium_black;shallow_black,none,0-9;0-10;0-11,1-1;1-2;1-3,ICAR-IIOR: 3-4 year gap between sunflower crops
+gram,Bengal gram (chickpea),ಕಡಲೆ,Gram,Rabi,market,,,gram,gram,1.0,6.0,8.5,1,0,,,deep_black;medium_black,none,,1-1;1-2;1-3,ICAR-IIPR: chickpea on residual moisture; avoid continuous chickpea (wilt)
+wheat,Wheat,ಗೋಧಿ,Wheat,Rabi,market,wheat,,wheat,wheat,1.0,6.0,8.5,0,0,,,deep_black,protective,,1-2;1-3;1-4,ICAR-IIWBR: peninsular wheat irrigated; rainfed only on deep black soils
+safflower,Safflower,ಕುಸುಬೆ,Safflower,Rabi,market,,,safflower,safflower,1.0,6.0,8.5,0,0,,,deep_black;medium_black,none,,1-2;1-3,ICAR-IIOR: rainfed rabi oilseed on deep black soils

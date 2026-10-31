@@ -1,0 +1,528 @@
+district,season,crop,yield_seasons,first_year,last_year,mean_area_ha,market_price_seasons,price_basis,included,exclusion_reason
+BAGALKOT,Kharif,bajra,27,1998,2024,30042,23,market,True,
+BAGALKOT,Kharif,groundnut,27,1998,2024,4752,23,market,True,
+BAGALKOT,Kharif,jowar,27,1998,2024,4997,23,market,True,
+BAGALKOT,Kharif,maize,27,1998,2024,44507,23,market,True,
+BAGALKOT,Kharif,moong,25,1998,2024,27396,23,market,True,
+BAGALKOT,Kharif,paddy,26,1998,2024,80,2,msp,False,mean area 80 ha (<1000)
+BAGALKOT,Kharif,ragi,7,2018,2024,33,0,msp,False,only 7 yield seasons (<10); mean area 33 ha (<1000)
+BAGALKOT,Kharif,soybean,27,1998,2024,2738,10,market,True,
+BAGALKOT,Kharif,sunflower,27,1998,2024,21764,23,market,True,
+BAGALKOT,Kharif,tur,27,1998,2024,18285,15,market,True,
+BAGALKOT,Kharif,urad,17,2005,2024,1301,5,market,True,
+BAGALKOT,Rabi,gram,27,1998,2024,53726,23,market,True,
+BAGALKOT,Rabi,groundnut,16,1998,2024,16818,23,market,True,
+BAGALKOT,Rabi,jowar,27,1998,2024,109196,23,market,True,
+BAGALKOT,Rabi,maize,27,1998,2024,16192,23,market,True,
+BAGALKOT,Rabi,safflower,27,1998,2024,2102,20,market,True,
+BAGALKOT,Rabi,sunflower,27,1998,2024,31664,23,market,True,
+BAGALKOT,Rabi,wheat,27,1998,2024,24050,22,market,True,
+BANGALORE RURAL,Kharif,bajra,18,2005,2024,8,0,msp,False,mean area 8 ha (<1000)
+BANGALORE RURAL,Kharif,groundnut,27,1998,2024,5116,0,msp,True,
+BANGALORE RURAL,Kharif,jowar,8,2016,2024,1751,0,msp,False,only 8 yield seasons (<10)
+BANGALORE RURAL,Kharif,maize,27,1998,2024,8248,0,msp,True,
+BANGALORE RURAL,Kharif,moong,25,1998,2024,59,0,msp,False,mean area 59 ha (<1000)
+BANGALORE RURAL,Kharif,paddy,28,1997,2024,4054,0,msp,True,
+BANGALORE RURAL,Kharif,ragi,27,1998,2024,75457,0,msp,True,
+BANGALORE RURAL,Kharif,soybean,9,1998,2024,12,0,msp,False,only 9 yield seasons (<10); mean area 12 ha (<1000)
+BANGALORE RURAL,Kharif,sunflower,25,1998,2024,33,0,msp,False,mean area 33 ha (<1000)
+BANGALORE RURAL,Kharif,tur,27,1998,2024,2302,0,msp,True,
+BANGALORE RURAL,Kharif,urad,25,1999,2024,43,0,msp,False,mean area 43 ha (<1000)
+BANGALORE RURAL,Rabi,gram,26,1998,2024,174,0,msp,False,mean area 174 ha (<1000)
+BANGALORE RURAL,Rabi,groundnut,16,1998,2023,250,0,msp,False,mean area 250 ha (<1000)
+BANGALORE RURAL,Rabi,jowar,6,2019,2024,186,0,msp,False,only 6 yield seasons (<10); mean area 186 ha (<1000)
+BANGALORE RURAL,Rabi,maize,27,1998,2024,116,0,msp,False,mean area 116 ha (<1000)
+BANGALORE RURAL,Rabi,safflower,5,2018,2022,3,0,msp,False,only 5 yield seasons (<10); mean area 3 ha (<1000)
+BANGALORE RURAL,Rabi,sunflower,19,1998,2024,38,0,msp,False,mean area 38 ha (<1000)
+BANGALORE RURAL,Rabi,wheat,6,1999,2022,4,0,msp,False,only 6 yield seasons (<10); mean area 4 ha (<1000)
+BELGAUM,Kharif,bajra,28,1997,2024,18071,16,market,True,
+BELGAUM,Kharif,groundnut,28,1997,2024,43816,23,market,True,
+BELGAUM,Kharif,jowar,28,1997,2024,28948,23,market,True,
+BELGAUM,Kharif,maize,28,1997,2024,105717,23,market,True,
+BELGAUM,Kharif,moong,27,1998,2024,30706,19,market,True,
+BELGAUM,Kharif,paddy,28,1997,2024,63076,16,market,True,
+BELGAUM,Kharif,ragi,28,1997,2024,1835,4,msp,True,
+BELGAUM,Kharif,soybean,27,1998,2024,75329,23,market,True,
+BELGAUM,Kharif,sunflower,27,1998,2024,10038,23,market,True,
+BELGAUM,Kharif,tur,28,1997,2024,7588,9,market,True,
+BELGAUM,Kharif,urad,26,1999,2024,5838,9,market,True,
+BELGAUM,Rabi,gram,27,1998,2024,66537,17,market,True,
+BELGAUM,Rabi,groundnut,18,1997,2024,6171,23,market,True,
+BELGAUM,Rabi,jowar,28,1997,2024,134495,23,market,True,
+BELGAUM,Rabi,maize,28,1997,2024,37152,23,market,True,
+BELGAUM,Rabi,safflower,27,1998,2024,4665,10,market,True,
+BELGAUM,Rabi,sunflower,27,1998,2024,10806,23,market,True,
+BELGAUM,Rabi,wheat,28,1997,2024,52123,22,market,True,
+BELLARY,Kharif,bajra,28,1997,2024,16810,23,market,True,
+BELLARY,Kharif,groundnut,28,1997,2024,53101,23,market,True,
+BELLARY,Kharif,jowar,28,1997,2024,28098,23,market,True,
+BELLARY,Kharif,maize,28,1997,2024,108576,23,market,True,
+BELLARY,Kharif,moong,26,1998,2024,1410,18,market,True,
+BELLARY,Kharif,paddy,28,1997,2024,74221,23,market,True,
+BELLARY,Kharif,ragi,28,1997,2024,8994,20,market,True,
+BELLARY,Kharif,soybean,8,2012,2024,121,1,msp,False,only 8 yield seasons (<10); mean area 121 ha (<1000)
+BELLARY,Kharif,sunflower,27,1998,2024,19211,23,market,True,
+BELLARY,Kharif,tur,28,1997,2024,9104,14,market,True,
+BELLARY,Kharif,urad,23,1999,2024,60,21,market,False,mean area 60 ha (<1000)
+BELLARY,Rabi,gram,27,1998,2024,28506,23,market,True,
+BELLARY,Rabi,groundnut,18,1997,2024,11277,23,market,True,
+BELLARY,Rabi,jowar,28,1997,2024,28286,23,market,True,
+BELLARY,Rabi,maize,28,1997,2024,4004,23,market,True,
+BELLARY,Rabi,safflower,27,1998,2024,2031,22,market,True,
+BELLARY,Rabi,sunflower,27,1998,2024,22034,23,market,True,
+BELLARY,Rabi,wheat,28,1997,2024,888,20,market,False,mean area 888 ha (<1000)
+BENGALURU URBAN,Kharif,bajra,10,2012,2024,11,24,market,False,mean area 11 ha (<1000)
+BENGALURU URBAN,Kharif,groundnut,28,1997,2024,851,24,market,False,mean area 851 ha (<1000)
+BENGALURU URBAN,Kharif,jowar,11,2003,2024,803,24,market,False,mean area 803 ha (<1000)
+BENGALURU URBAN,Kharif,maize,27,1997,2024,1057,24,market,True,
+BENGALURU URBAN,Kharif,moong,27,1998,2024,35,24,market,False,mean area 35 ha (<1000)
+BENGALURU URBAN,Kharif,paddy,28,1997,2024,1657,23,market,True,
+BENGALURU URBAN,Kharif,ragi,28,1997,2024,32068,24,market,True,
+BENGALURU URBAN,Kharif,soybean,6,2018,2024,3,23,market,False,only 6 yield seasons (<10); mean area 3 ha (<1000)
+BENGALURU URBAN,Kharif,sunflower,24,1998,2024,9,2,msp,False,mean area 9 ha (<1000)
+BENGALURU URBAN,Kharif,tur,28,1997,2024,942,15,market,False,mean area 942 ha (<1000)
+BENGALURU URBAN,Kharif,urad,26,1999,2024,27,24,market,False,mean area 27 ha (<1000)
+BENGALURU URBAN,Rabi,gram,15,1999,2022,40,24,market,False,mean area 40 ha (<1000)
+BENGALURU URBAN,Rabi,groundnut,13,1997,2011,81,24,market,False,mean area 81 ha (<1000)
+BENGALURU URBAN,Rabi,jowar,7,2012,2022,25,24,market,False,only 7 yield seasons (<10); mean area 25 ha (<1000)
+BENGALURU URBAN,Rabi,maize,26,1997,2022,87,24,market,False,mean area 87 ha (<1000)
+BENGALURU URBAN,Rabi,safflower,4,2019,2022,6,0,msp,False,only 4 yield seasons (<10); mean area 6 ha (<1000)
+BENGALURU URBAN,Rabi,sunflower,5,1998,2022,3,2,msp,False,only 5 yield seasons (<10); mean area 3 ha (<1000)
+BENGALURU URBAN,Rabi,wheat,4,2018,2022,4,24,market,False,only 4 yield seasons (<10); mean area 4 ha (<1000)
+BIDAR,Kharif,bajra,28,1997,2024,5823,23,market,True,
+BIDAR,Kharif,groundnut,28,1997,2024,724,22,market,False,mean area 724 ha (<1000)
+BIDAR,Kharif,jowar,28,1997,2024,42903,23,market,True,
+BIDAR,Kharif,maize,28,1997,2024,756,17,market,False,mean area 756 ha (<1000)
+BIDAR,Kharif,moong,26,1998,2024,38910,23,market,True,
+BIDAR,Kharif,paddy,28,1997,2024,5045,10,market,True,
+BIDAR,Kharif,ragi,6,2018,2023,30,0,msp,False,only 6 yield seasons (<10); mean area 30 ha (<1000)
+BIDAR,Kharif,soybean,27,1998,2024,88511,23,market,True,
+BIDAR,Kharif,sunflower,26,1998,2024,3485,22,market,True,
+BIDAR,Kharif,tur,28,1997,2024,80406,15,market,True,
+BIDAR,Kharif,urad,25,1999,2024,42202,23,market,True,
+BIDAR,Rabi,gram,26,1998,2024,48610,23,market,True,
+BIDAR,Rabi,groundnut,18,1997,2024,624,22,market,False,mean area 624 ha (<1000)
+BIDAR,Rabi,jowar,28,1997,2024,28823,23,market,True,
+BIDAR,Rabi,maize,28,1997,2024,182,17,market,False,mean area 182 ha (<1000)
+BIDAR,Rabi,safflower,27,1998,2024,11054,23,market,True,
+BIDAR,Rabi,sunflower,25,1998,2024,2813,22,market,True,
+BIDAR,Rabi,wheat,28,1997,2024,7204,23,market,True,
+BIJAPUR,Kharif,bajra,28,1997,2024,55604,23,market,True,
+BIJAPUR,Kharif,groundnut,28,1997,2024,29692,21,market,True,
+BIJAPUR,Kharif,jowar,17,1997,2023,1045,23,market,True,
+BIJAPUR,Kharif,maize,28,1997,2024,41420,23,market,True,
+BIJAPUR,Kharif,moong,26,1998,2024,13612,21,market,True,
+BIJAPUR,Kharif,paddy,28,1997,2024,104,10,market,False,mean area 104 ha (<1000)
+BIJAPUR,Kharif,ragi,7,2018,2024,52,0,msp,False,only 7 yield seasons (<10); mean area 52 ha (<1000)
+BIJAPUR,Kharif,soybean,14,1998,2024,96,0,msp,False,mean area 96 ha (<1000)
+BIJAPUR,Kharif,sunflower,27,1998,2024,36867,23,market,True,
+BIJAPUR,Kharif,tur,28,1997,2024,191548,14,market,True,
+BIJAPUR,Kharif,urad,17,2007,2024,1266,8,market,True,
+BIJAPUR,Rabi,gram,27,1998,2024,107051,23,market,True,
+BIJAPUR,Rabi,groundnut,17,1997,2024,15912,21,market,True,
+BIJAPUR,Rabi,jowar,28,1997,2024,198058,23,market,True,
+BIJAPUR,Rabi,maize,28,1997,2024,7786,23,market,True,
+BIJAPUR,Rabi,safflower,27,1998,2024,5863,22,market,True,
+BIJAPUR,Rabi,sunflower,27,1998,2024,63506,23,market,True,
+BIJAPUR,Rabi,wheat,28,1997,2024,49372,23,market,True,
+CHAMARAJANAGAR,Kharif,bajra,27,1998,2024,578,8,market,False,mean area 578 ha (<1000)
+CHAMARAJANAGAR,Kharif,groundnut,27,1998,2024,11286,22,market,True,
+CHAMARAJANAGAR,Kharif,jowar,27,1998,2024,18674,23,market,True,
+CHAMARAJANAGAR,Kharif,maize,27,1998,2024,24604,23,market,True,
+CHAMARAJANAGAR,Kharif,moong,27,1998,2024,1820,16,market,True,
+CHAMARAJANAGAR,Kharif,paddy,27,1998,2024,12013,21,market,True,
+CHAMARAJANAGAR,Kharif,ragi,27,1998,2024,14609,22,market,True,
+CHAMARAJANAGAR,Kharif,soybean,11,1998,2024,57,0,msp,False,mean area 57 ha (<1000)
+CHAMARAJANAGAR,Kharif,sunflower,27,1998,2024,9781,23,market,True,
+CHAMARAJANAGAR,Kharif,tur,27,1998,2024,1294,13,market,True,
+CHAMARAJANAGAR,Kharif,urad,26,1999,2024,2827,14,market,True,
+CHAMARAJANAGAR,Rabi,gram,26,1998,2024,3205,17,market,True,
+CHAMARAJANAGAR,Rabi,groundnut,16,1998,2024,201,22,market,False,mean area 201 ha (<1000)
+CHAMARAJANAGAR,Rabi,jowar,15,1998,2024,160,23,market,False,mean area 160 ha (<1000)
+CHAMARAJANAGAR,Rabi,maize,27,1998,2024,3067,23,market,True,
+CHAMARAJANAGAR,Rabi,safflower,7,2018,2024,8,3,msp,False,only 7 yield seasons (<10); mean area 8 ha (<1000)
+CHAMARAJANAGAR,Rabi,sunflower,26,1998,2024,220,23,market,False,mean area 220 ha (<1000)
+CHAMARAJANAGAR,Rabi,wheat,11,1998,2024,9,6,market,False,mean area 9 ha (<1000)
+CHIKBALLAPUR,Kharif,bajra,13,2010,2024,171,0,msp,False,mean area 171 ha (<1000)
+CHIKBALLAPUR,Kharif,groundnut,18,2007,2024,25034,0,msp,True,
+CHIKBALLAPUR,Kharif,jowar,13,2010,2024,3779,0,msp,True,
+CHIKBALLAPUR,Kharif,maize,18,2007,2024,49014,0,msp,True,
+CHIKBALLAPUR,Kharif,moong,7,2018,2024,66,0,msp,False,only 7 yield seasons (<10); mean area 66 ha (<1000)
+CHIKBALLAPUR,Kharif,paddy,18,2007,2024,2341,0,msp,True,
+CHIKBALLAPUR,Kharif,ragi,18,2007,2024,42139,0,msp,True,
+CHIKBALLAPUR,Kharif,soybean,7,2018,2024,9,0,msp,False,only 7 yield seasons (<10); mean area 9 ha (<1000)
+CHIKBALLAPUR,Kharif,sunflower,17,2007,2024,127,0,msp,False,mean area 127 ha (<1000)
+CHIKBALLAPUR,Kharif,tur,18,2007,2024,5958,0,msp,True,
+CHIKBALLAPUR,Kharif,urad,7,2018,2024,40,0,msp,False,only 7 yield seasons (<10); mean area 40 ha (<1000)
+CHIKBALLAPUR,Rabi,gram,17,2008,2024,400,0,msp,False,mean area 400 ha (<1000)
+CHIKBALLAPUR,Rabi,groundnut,8,2007,2024,1128,0,msp,False,only 8 yield seasons (<10)
+CHIKBALLAPUR,Rabi,jowar,6,2019,2024,488,0,msp,False,only 6 yield seasons (<10); mean area 488 ha (<1000)
+CHIKBALLAPUR,Rabi,maize,18,2007,2024,1310,0,msp,True,
+CHIKBALLAPUR,Rabi,safflower,7,2018,2024,6,0,msp,False,only 7 yield seasons (<10); mean area 6 ha (<1000)
+CHIKBALLAPUR,Rabi,sunflower,17,2007,2024,297,0,msp,False,mean area 297 ha (<1000)
+CHIKBALLAPUR,Rabi,wheat,6,2018,2023,4,0,msp,False,only 6 yield seasons (<10); mean area 4 ha (<1000)
+CHIKMAGALUR,Kharif,bajra,9,2012,2024,14,0,msp,False,only 9 yield seasons (<10); mean area 14 ha (<1000)
+CHIKMAGALUR,Kharif,groundnut,28,1997,2024,3972,22,market,True,
+CHIKMAGALUR,Kharif,jowar,28,1997,2024,2778,23,market,True,
+CHIKMAGALUR,Kharif,maize,28,1997,2024,10449,23,market,True,
+CHIKMAGALUR,Kharif,moong,27,1998,2024,2670,20,market,True,
+CHIKMAGALUR,Kharif,paddy,28,1997,2024,32935,21,market,True,
+CHIKMAGALUR,Kharif,ragi,28,1997,2024,51156,23,market,True,
+CHIKMAGALUR,Kharif,soybean,11,1998,2024,50,2,msp,False,mean area 50 ha (<1000)
+CHIKMAGALUR,Kharif,sunflower,27,1998,2024,6346,23,market,True,
+CHIKMAGALUR,Kharif,tur,28,1997,2024,572,12,market,False,mean area 572 ha (<1000)
+CHIKMAGALUR,Kharif,urad,26,1999,2024,513,5,market,False,mean area 513 ha (<1000)
+CHIKMAGALUR,Rabi,gram,27,1998,2024,6223,22,market,True,
+CHIKMAGALUR,Rabi,groundnut,17,1997,2024,622,22,market,False,mean area 622 ha (<1000)
+CHIKMAGALUR,Rabi,jowar,28,1997,2024,6151,23,market,True,
+CHIKMAGALUR,Rabi,maize,6,2019,2024,552,23,market,False,only 6 yield seasons (<10); mean area 552 ha (<1000)
+CHIKMAGALUR,Rabi,safflower,21,1998,2024,59,0,msp,False,mean area 59 ha (<1000)
+CHIKMAGALUR,Rabi,sunflower,21,1998,2024,124,23,market,False,mean area 124 ha (<1000)
+CHIKMAGALUR,Rabi,wheat,20,1997,2023,15,16,market,False,mean area 15 ha (<1000)
+CHITRADURGA,Kharif,bajra,28,1997,2024,2798,6,market,True,
+CHITRADURGA,Kharif,groundnut,28,1997,2024,125994,23,market,True,
+CHITRADURGA,Kharif,jowar,28,1997,2024,9414,17,market,True,
+CHITRADURGA,Kharif,maize,28,1997,2024,78613,23,market,True,
+CHITRADURGA,Kharif,moong,27,1998,2024,4255,20,market,True,
+CHITRADURGA,Kharif,paddy,28,1997,2024,4360,16,market,True,
+CHITRADURGA,Kharif,ragi,28,1997,2024,49689,23,market,True,
+CHITRADURGA,Kharif,soybean,9,1999,2024,72,1,msp,False,only 9 yield seasons (<10); mean area 72 ha (<1000)
+CHITRADURGA,Kharif,sunflower,27,1998,2024,15126,23,market,True,
+CHITRADURGA,Kharif,tur,28,1997,2024,9461,14,market,True,
+CHITRADURGA,Kharif,urad,23,1999,2024,44,4,msp,False,mean area 44 ha (<1000)
+CHITRADURGA,Rabi,gram,27,1998,2024,19662,18,market,True,
+CHITRADURGA,Rabi,groundnut,17,1997,2024,3931,23,market,True,
+CHITRADURGA,Rabi,jowar,28,1997,2024,12743,17,market,True,
+CHITRADURGA,Rabi,maize,28,1997,2024,4491,23,market,True,
+CHITRADURGA,Rabi,safflower,26,1998,2024,1745,16,market,True,
+CHITRADURGA,Rabi,sunflower,27,1998,2024,9004,23,market,True,
+CHITRADURGA,Rabi,wheat,28,1997,2024,584,6,market,False,mean area 584 ha (<1000)
+DAKSHIN KANNAD,Kharif,bajra,2,2018,2019,6,0,msp,False,only 2 yield seasons (<10); mean area 6 ha (<1000)
+DAKSHIN KANNAD,Kharif,groundnut,1,2020,2020,5,1,msp,False,only 1 yield seasons (<10); mean area 5 ha (<1000)
+DAKSHIN KANNAD,Kharif,maize,1,2020,2020,1,3,msp,False,only 1 yield seasons (<10); mean area 1 ha (<1000)
+DAKSHIN KANNAD,Kharif,moong,2,1998,1999,60,4,msp,False,only 2 yield seasons (<10); mean area 60 ha (<1000)
+DAKSHIN KANNAD,Kharif,paddy,28,1997,2024,28027,20,market,True,
+DAKSHIN KANNAD,Kharif,tur,2,2018,2019,1,4,msp,False,only 2 yield seasons (<10); mean area 1 ha (<1000)
+DAKSHIN KANNAD,Kharif,urad,1,1999,1999,1504,3,msp,False,only 1 yield seasons (<10)
+DAKSHIN KANNAD,Rabi,gram,1,2009,2009,78,4,msp,False,only 1 yield seasons (<10); mean area 78 ha (<1000)
+DAKSHIN KANNAD,Rabi,groundnut,1,1997,1997,2966,1,msp,False,only 1 yield seasons (<10)
+DAKSHIN KANNAD,Rabi,jowar,1,2019,2019,1,1,msp,False,only 1 yield seasons (<10); mean area 1 ha (<1000)
+DAKSHIN KANNAD,Rabi,wheat,2,2018,2019,2,3,msp,False,only 2 yield seasons (<10); mean area 2 ha (<1000)
+DAVANGERE,Kharif,bajra,27,1998,2024,667,1,msp,False,mean area 667 ha (<1000)
+DAVANGERE,Kharif,groundnut,27,1998,2024,13817,23,market,True,
+DAVANGERE,Kharif,jowar,27,1998,2024,15775,23,market,True,
+DAVANGERE,Kharif,maize,27,1998,2024,150307,23,market,True,
+DAVANGERE,Kharif,moong,25,1998,2024,938,12,market,False,mean area 938 ha (<1000)
+DAVANGERE,Kharif,paddy,27,1998,2024,64445,23,market,True,
+DAVANGERE,Kharif,ragi,27,1998,2024,19331,23,market,True,
+DAVANGERE,Kharif,soybean,12,1998,2024,44,0,msp,False,mean area 44 ha (<1000)
+DAVANGERE,Kharif,sunflower,27,1998,2024,4998,23,market,True,
+DAVANGERE,Kharif,tur,27,1998,2024,5392,16,market,True,
+DAVANGERE,Kharif,urad,26,1999,2024,38,8,market,False,mean area 38 ha (<1000)
+DAVANGERE,Rabi,gram,27,1998,2024,3170,12,market,True,
+DAVANGERE,Rabi,groundnut,17,1998,2024,3720,23,market,True,
+DAVANGERE,Rabi,jowar,27,1998,2024,5037,23,market,True,
+DAVANGERE,Rabi,maize,27,1998,2024,1456,23,market,True,
+DAVANGERE,Rabi,safflower,23,1998,2024,119,0,msp,False,mean area 119 ha (<1000)
+DAVANGERE,Rabi,sunflower,27,1998,2024,2955,23,market,True,
+DAVANGERE,Rabi,wheat,27,1998,2024,402,13,market,False,mean area 402 ha (<1000)
+DHARWAD,Kharif,bajra,12,1997,2024,149,8,market,False,mean area 149 ha (<1000)
+DHARWAD,Kharif,groundnut,28,1997,2024,33625,24,market,True,
+DHARWAD,Kharif,jowar,28,1997,2024,8424,23,market,True,
+DHARWAD,Kharif,maize,28,1997,2024,37745,24,market,True,
+DHARWAD,Kharif,moong,27,1998,2024,39765,24,market,True,
+DHARWAD,Kharif,paddy,28,1997,2024,26115,19,market,True,
+DHARWAD,Kharif,ragi,28,1997,2024,274,12,market,False,mean area 274 ha (<1000)
+DHARWAD,Kharif,soybean,27,1998,2024,25605,23,market,True,
+DHARWAD,Kharif,sunflower,25,1998,2023,510,24,market,False,mean area 510 ha (<1000)
+DHARWAD,Kharif,tur,28,1997,2024,2269,16,market,True,
+DHARWAD,Kharif,urad,26,1999,2024,2847,24,market,True,
+DHARWAD,Rabi,gram,27,1998,2024,67423,24,market,True,
+DHARWAD,Rabi,groundnut,17,1997,2024,1871,24,market,True,
+DHARWAD,Rabi,jowar,28,1997,2024,46624,23,market,True,
+DHARWAD,Rabi,maize,28,1997,2024,3151,24,market,True,
+DHARWAD,Rabi,safflower,27,1998,2024,7631,23,market,True,
+DHARWAD,Rabi,sunflower,27,1998,2024,5048,24,market,True,
+DHARWAD,Rabi,wheat,28,1997,2024,35142,24,market,True,
+GADAG,Kharif,bajra,27,1998,2024,1912,16,market,True,
+GADAG,Kharif,groundnut,27,1998,2024,42974,23,market,True,
+GADAG,Kharif,jowar,27,1998,2024,6399,23,market,True,
+GADAG,Kharif,maize,27,1998,2024,49227,23,market,True,
+GADAG,Kharif,moong,25,1998,2024,79316,23,market,True,
+GADAG,Kharif,paddy,27,1998,2024,1626,6,market,True,
+GADAG,Kharif,ragi,25,1998,2024,37,11,market,False,mean area 37 ha (<1000)
+GADAG,Kharif,soybean,17,1998,2024,163,19,market,False,mean area 163 ha (<1000)
+GADAG,Kharif,sunflower,27,1998,2024,11549,23,market,True,
+GADAG,Kharif,tur,27,1998,2024,1992,16,market,True,
+GADAG,Kharif,urad,24,2000,2024,63,23,market,False,mean area 63 ha (<1000)
+GADAG,Rabi,gram,27,1998,2024,76812,23,market,True,
+GADAG,Rabi,groundnut,16,1998,2024,7411,23,market,True,
+GADAG,Rabi,jowar,27,1998,2024,61445,23,market,True,
+GADAG,Rabi,maize,27,1998,2024,3294,23,market,True,
+GADAG,Rabi,safflower,27,1998,2024,3899,23,market,True,
+GADAG,Rabi,sunflower,27,1998,2024,35474,23,market,True,
+GADAG,Rabi,wheat,27,1998,2024,26950,23,market,True,
+GULBARGA,Kharif,bajra,28,1997,2024,35127,22,market,True,
+GULBARGA,Kharif,groundnut,28,1997,2024,16653,9,market,True,
+GULBARGA,Kharif,jowar,27,1997,2024,5361,23,market,True,
+GULBARGA,Kharif,maize,28,1997,2024,2780,13,market,True,
+GULBARGA,Kharif,moong,27,1998,2024,73099,23,market,True,
+GULBARGA,Kharif,paddy,28,1997,2024,17149,9,market,True,
+GULBARGA,Kharif,ragi,12,1997,2024,34,0,msp,False,mean area 34 ha (<1000)
+GULBARGA,Kharif,soybean,27,1998,2024,9226,11,market,True,
+GULBARGA,Kharif,sunflower,27,1998,2024,37811,23,market,True,
+GULBARGA,Kharif,tur,28,1997,2024,403115,15,market,True,
+GULBARGA,Kharif,urad,26,1999,2024,36328,23,market,True,
+GULBARGA,Rabi,gram,27,1998,2024,122361,23,market,True,
+GULBARGA,Rabi,groundnut,18,1997,2024,28664,9,market,True,
+GULBARGA,Rabi,jowar,28,1997,2024,224836,23,market,True,
+GULBARGA,Rabi,maize,28,1997,2024,332,13,market,False,mean area 332 ha (<1000)
+GULBARGA,Rabi,safflower,27,1998,2024,10825,23,market,True,
+GULBARGA,Rabi,sunflower,27,1998,2024,23178,23,market,True,
+GULBARGA,Rabi,wheat,28,1997,2024,15563,17,market,True,
+HASSAN,Kharif,bajra,9,2012,2024,36,1,msp,False,only 9 yield seasons (<10); mean area 36 ha (<1000)
+HASSAN,Kharif,groundnut,28,1997,2024,891,7,market,False,mean area 891 ha (<1000)
+HASSAN,Kharif,jowar,28,1997,2024,3454,20,market,True,
+HASSAN,Kharif,maize,28,1997,2024,56656,23,market,True,
+HASSAN,Kharif,moong,26,1998,2024,5227,22,market,True,
+HASSAN,Kharif,paddy,28,1997,2024,42434,22,market,True,
+HASSAN,Kharif,ragi,28,1997,2024,81015,23,market,True,
+HASSAN,Kharif,soybean,14,1998,2024,26,0,msp,False,mean area 26 ha (<1000)
+HASSAN,Kharif,sunflower,27,1998,2024,4760,20,market,True,
+HASSAN,Kharif,tur,28,1997,2024,1927,21,market,True,
+HASSAN,Kharif,urad,26,1999,2024,1112,20,market,True,
+HASSAN,Rabi,gram,27,1998,2024,2033,23,market,True,
+HASSAN,Rabi,groundnut,17,1997,2024,1034,7,market,True,
+HASSAN,Rabi,jowar,27,1997,2024,994,20,market,False,mean area 994 ha (<1000)
+HASSAN,Rabi,maize,28,1997,2024,4534,23,market,True,
+HASSAN,Rabi,safflower,7,2018,2024,2,1,msp,False,only 7 yield seasons (<10); mean area 2 ha (<1000)
+HASSAN,Rabi,sunflower,16,1998,2022,723,20,market,False,mean area 723 ha (<1000)
+HASSAN,Rabi,wheat,6,2018,2024,9,22,market,False,only 6 yield seasons (<10); mean area 9 ha (<1000)
+HAVERI,Kharif,bajra,21,1998,2024,158,6,market,False,mean area 158 ha (<1000)
+HAVERI,Kharif,groundnut,27,1998,2024,19035,23,market,True,
+HAVERI,Kharif,jowar,27,1998,2024,10757,23,market,True,
+HAVERI,Kharif,maize,27,1998,2024,149917,23,market,True,
+HAVERI,Kharif,moong,26,1998,2024,6206,21,market,True,
+HAVERI,Kharif,paddy,27,1998,2024,38971,22,market,True,
+HAVERI,Kharif,ragi,27,1998,2024,1043,19,market,True,
+HAVERI,Kharif,soybean,27,1998,2024,6162,21,market,True,
+HAVERI,Kharif,sunflower,27,1998,2024,1680,22,market,True,
+HAVERI,Kharif,tur,27,1998,2024,2787,13,market,True,
+HAVERI,Kharif,urad,26,1999,2024,297,10,market,False,mean area 297 ha (<1000)
+HAVERI,Rabi,gram,27,1998,2024,2227,13,market,True,
+HAVERI,Rabi,groundnut,16,1998,2024,4137,23,market,True,
+HAVERI,Rabi,jowar,27,1998,2024,43441,23,market,True,
+HAVERI,Rabi,maize,27,1998,2024,10889,23,market,True,
+HAVERI,Rabi,safflower,27,1998,2024,1338,17,market,True,
+HAVERI,Rabi,sunflower,27,1998,2024,5196,22,market,True,
+HAVERI,Rabi,wheat,27,1998,2024,969,21,market,False,mean area 969 ha (<1000)
+KODAGU,Kharif,bajra,2,2019,2020,2,0,msp,False,only 2 yield seasons (<10); mean area 2 ha (<1000)
+KODAGU,Kharif,groundnut,17,2001,2021,17,0,msp,False,mean area 17 ha (<1000)
+KODAGU,Kharif,jowar,6,2012,2024,321,7,market,False,only 6 yield seasons (<10); mean area 321 ha (<1000)
+KODAGU,Kharif,maize,28,1997,2024,2397,20,market,True,
+KODAGU,Kharif,moong,2,2018,2020,4,0,msp,False,only 2 yield seasons (<10); mean area 4 ha (<1000)
+KODAGU,Kharif,paddy,28,1997,2024,30090,21,market,True,
+KODAGU,Kharif,ragi,23,1997,2024,245,4,msp,False,mean area 245 ha (<1000)
+KODAGU,Kharif,sunflower,1,2012,2012,4,0,msp,False,only 1 yield seasons (<10); mean area 4 ha (<1000)
+KODAGU,Kharif,tur,4,2005,2020,9,7,market,False,only 4 yield seasons (<10); mean area 9 ha (<1000)
+KODAGU,Kharif,urad,1,2018,2018,5,0,msp,False,only 1 yield seasons (<10); mean area 5 ha (<1000)
+KODAGU,Rabi,gram,7,2003,2020,37,1,msp,False,only 7 yield seasons (<10); mean area 37 ha (<1000)
+KODAGU,Rabi,groundnut,6,2000,2010,22,0,msp,False,only 6 yield seasons (<10); mean area 22 ha (<1000)
+KODAGU,Rabi,maize,11,2004,2024,56,20,market,False,mean area 56 ha (<1000)
+KODAGU,Rabi,wheat,2,2018,2020,2,3,msp,False,only 2 yield seasons (<10); mean area 2 ha (<1000)
+KOLAR,Kharif,bajra,17,1997,2024,107,5,market,False,mean area 107 ha (<1000)
+KOLAR,Kharif,groundnut,28,1997,2024,25645,23,market,True,
+KOLAR,Kharif,jowar,7,2018,2024,1310,17,market,False,only 7 yield seasons (<10)
+KOLAR,Kharif,maize,28,1997,2024,6870,23,market,True,
+KOLAR,Kharif,moong,13,1998,2024,67,15,market,False,mean area 67 ha (<1000)
+KOLAR,Kharif,paddy,28,1997,2024,5088,23,market,True,
+KOLAR,Kharif,ragi,28,1997,2024,71199,23,market,True,
+KOLAR,Kharif,soybean,6,2018,2024,7,0,msp,False,only 6 yield seasons (<10); mean area 7 ha (<1000)
+KOLAR,Kharif,sunflower,21,1998,2024,510,14,market,False,mean area 510 ha (<1000)
+KOLAR,Kharif,tur,28,1997,2024,4255,16,market,True,
+KOLAR,Kharif,urad,11,2001,2024,13,19,market,False,mean area 13 ha (<1000)
+KOLAR,Rabi,gram,17,1998,2024,391,16,market,False,mean area 391 ha (<1000)
+KOLAR,Rabi,groundnut,17,1997,2024,527,23,market,False,mean area 527 ha (<1000)
+KOLAR,Rabi,jowar,6,2019,2024,265,17,market,False,only 6 yield seasons (<10); mean area 265 ha (<1000)
+KOLAR,Rabi,maize,23,1997,2024,457,23,market,False,mean area 457 ha (<1000)
+KOLAR,Rabi,safflower,6,2019,2024,2,0,msp,False,only 6 yield seasons (<10); mean area 2 ha (<1000)
+KOLAR,Rabi,sunflower,13,1998,2024,586,14,market,False,mean area 586 ha (<1000)
+KOLAR,Rabi,wheat,4,2019,2022,2,16,market,False,only 4 yield seasons (<10); mean area 2 ha (<1000)
+KOPPAL,Kharif,bajra,27,1998,2024,62270,23,market,True,
+KOPPAL,Kharif,groundnut,27,1998,2024,19484,23,market,True,
+KOPPAL,Kharif,jowar,27,1998,2024,10372,23,market,True,
+KOPPAL,Kharif,maize,27,1998,2024,47107,23,market,True,
+KOPPAL,Kharif,moong,27,1998,2024,18884,23,market,True,
+KOPPAL,Kharif,paddy,27,1998,2024,44059,23,market,True,
+KOPPAL,Kharif,ragi,7,2018,2024,54,6,market,False,only 7 yield seasons (<10); mean area 54 ha (<1000)
+KOPPAL,Kharif,soybean,7,2018,2024,34,0,msp,False,only 7 yield seasons (<10); mean area 34 ha (<1000)
+KOPPAL,Kharif,sunflower,27,1998,2024,22257,23,market,True,
+KOPPAL,Kharif,tur,27,1998,2024,18683,13,market,True,
+KOPPAL,Kharif,urad,18,1999,2024,23,22,market,False,mean area 23 ha (<1000)
+KOPPAL,Rabi,gram,27,1998,2024,41256,23,market,True,
+KOPPAL,Rabi,groundnut,16,1998,2024,20686,23,market,True,
+KOPPAL,Rabi,jowar,27,1998,2024,35247,23,market,True,
+KOPPAL,Rabi,maize,27,1998,2024,5139,23,market,True,
+KOPPAL,Rabi,safflower,27,1998,2024,3608,21,market,True,
+KOPPAL,Rabi,sunflower,27,1998,2024,23976,23,market,True,
+KOPPAL,Rabi,wheat,27,1998,2024,6294,21,market,True,
+MANDYA,Kharif,bajra,8,1998,2023,10,2,msp,False,only 8 yield seasons (<10); mean area 10 ha (<1000)
+MANDYA,Kharif,groundnut,28,1997,2024,2469,7,market,True,
+MANDYA,Kharif,jowar,19,1997,2019,1601,11,market,True,
+MANDYA,Kharif,maize,27,1997,2024,3229,15,market,True,
+MANDYA,Kharif,moong,27,1998,2024,343,18,market,False,mean area 343 ha (<1000)
+MANDYA,Kharif,paddy,28,1997,2024,53999,22,market,True,
+MANDYA,Kharif,ragi,28,1997,2024,57277,23,market,True,
+MANDYA,Kharif,soybean,20,1998,2024,31,1,msp,False,mean area 31 ha (<1000)
+MANDYA,Kharif,sunflower,22,1998,2024,17,2,msp,False,mean area 17 ha (<1000)
+MANDYA,Kharif,tur,28,1997,2024,989,4,msp,False,mean area 989 ha (<1000)
+MANDYA,Kharif,urad,26,1999,2024,372,12,market,False,mean area 372 ha (<1000)
+MANDYA,Rabi,gram,22,1998,2022,664,5,market,False,mean area 664 ha (<1000)
+MANDYA,Rabi,groundnut,17,1997,2024,51,7,market,False,mean area 51 ha (<1000)
+MANDYA,Rabi,jowar,10,2002,2022,108,11,market,False,mean area 108 ha (<1000)
+MANDYA,Rabi,maize,22,2002,2024,507,15,market,False,mean area 507 ha (<1000)
+MANDYA,Rabi,safflower,4,2018,2021,7,0,msp,False,only 4 yield seasons (<10); mean area 7 ha (<1000)
+MANDYA,Rabi,sunflower,13,1998,2023,6,2,msp,False,mean area 6 ha (<1000)
+MANDYA,Rabi,wheat,5,2004,2021,2,9,market,False,only 5 yield seasons (<10); mean area 2 ha (<1000)
+MYSORE,Kharif,bajra,12,1997,2024,43,0,msp,False,mean area 43 ha (<1000)
+MYSORE,Kharif,groundnut,28,1997,2024,5913,24,market,True,
+MYSORE,Kharif,jowar,28,1997,2024,10860,24,market,True,
+MYSORE,Kharif,maize,28,1997,2024,28145,24,market,True,
+MYSORE,Kharif,moong,27,1998,2024,5453,23,market,True,
+MYSORE,Kharif,paddy,28,1997,2024,88936,24,market,True,
+MYSORE,Kharif,ragi,28,1997,2024,52781,24,market,True,
+MYSORE,Kharif,soybean,16,1998,2024,52,5,market,False,mean area 52 ha (<1000)
+MYSORE,Kharif,sunflower,27,1998,2024,1412,23,market,True,
+MYSORE,Kharif,tur,28,1997,2024,3896,23,market,True,
+MYSORE,Kharif,urad,26,1999,2024,8206,23,market,True,
+MYSORE,Rabi,gram,27,1998,2024,1590,23,market,True,
+MYSORE,Rabi,groundnut,17,1997,2024,333,24,market,False,mean area 333 ha (<1000)
+MYSORE,Rabi,jowar,27,1997,2024,595,24,market,False,mean area 595 ha (<1000)
+MYSORE,Rabi,maize,28,1997,2024,4058,24,market,True,
+MYSORE,Rabi,safflower,4,2018,2021,10,0,msp,False,only 4 yield seasons (<10); mean area 10 ha (<1000)
+MYSORE,Rabi,sunflower,15,1998,2024,90,23,market,False,mean area 90 ha (<1000)
+MYSORE,Rabi,wheat,6,1997,2022,3,23,market,False,only 6 yield seasons (<10); mean area 3 ha (<1000)
+RAICHUR,Kharif,bajra,28,1997,2024,50095,23,market,True,
+RAICHUR,Kharif,groundnut,28,1997,2024,13829,23,market,True,
+RAICHUR,Kharif,jowar,25,1997,2024,5117,23,market,True,
+RAICHUR,Kharif,maize,28,1997,2024,906,21,market,False,mean area 906 ha (<1000)
+RAICHUR,Kharif,moong,25,1998,2024,4517,23,market,True,
+RAICHUR,Kharif,paddy,28,1997,2024,112765,23,market,True,
+RAICHUR,Kharif,ragi,7,2018,2024,64,4,msp,False,only 7 yield seasons (<10); mean area 64 ha (<1000)
+RAICHUR,Kharif,soybean,8,1999,2024,22,0,msp,False,only 8 yield seasons (<10); mean area 22 ha (<1000)
+RAICHUR,Kharif,sunflower,27,1998,2024,38749,23,market,True,
+RAICHUR,Kharif,tur,28,1997,2024,55195,23,market,True,
+RAICHUR,Kharif,urad,16,2000,2024,23,11,market,False,mean area 23 ha (<1000)
+RAICHUR,Rabi,gram,27,1998,2024,61601,23,market,True,
+RAICHUR,Rabi,groundnut,17,1997,2024,20620,23,market,True,
+RAICHUR,Rabi,jowar,28,1997,2024,109035,23,market,True,
+RAICHUR,Rabi,maize,21,1997,2024,600,21,market,False,mean area 600 ha (<1000)
+RAICHUR,Rabi,safflower,27,1998,2024,4230,23,market,True,
+RAICHUR,Rabi,sunflower,27,1998,2024,39527,23,market,True,
+RAICHUR,Rabi,wheat,28,1997,2024,2337,16,market,True,
+RAMANAGARA,Kharif,bajra,13,2012,2024,12,0,msp,False,mean area 12 ha (<1000)
+RAMANAGARA,Kharif,groundnut,18,2007,2024,3142,0,msp,True,
+RAMANAGARA,Kharif,jowar,7,2018,2024,1565,0,msp,False,only 7 yield seasons (<10)
+RAMANAGARA,Kharif,maize,18,2007,2024,2240,0,msp,True,
+RAMANAGARA,Kharif,moong,16,2007,2024,29,0,msp,False,mean area 29 ha (<1000)
+RAMANAGARA,Kharif,paddy,18,2007,2024,4651,0,msp,True,
+RAMANAGARA,Kharif,ragi,18,2007,2024,68165,0,msp,True,
+RAMANAGARA,Kharif,soybean,6,2018,2024,3,0,msp,False,only 6 yield seasons (<10); mean area 3 ha (<1000)
+RAMANAGARA,Kharif,sunflower,18,2007,2024,29,0,msp,False,mean area 29 ha (<1000)
+RAMANAGARA,Kharif,tur,18,2007,2024,2593,0,msp,True,
+RAMANAGARA,Kharif,urad,16,2007,2024,31,0,msp,False,mean area 31 ha (<1000)
+RAMANAGARA,Rabi,gram,11,2007,2022,371,0,msp,False,mean area 371 ha (<1000)
+RAMANAGARA,Rabi,groundnut,6,2007,2024,41,0,msp,False,only 6 yield seasons (<10); mean area 41 ha (<1000)
+RAMANAGARA,Rabi,jowar,7,2015,2024,252,0,msp,False,only 7 yield seasons (<10); mean area 252 ha (<1000)
+RAMANAGARA,Rabi,maize,18,2007,2024,362,0,msp,False,mean area 362 ha (<1000)
+RAMANAGARA,Rabi,safflower,4,2018,2021,3,0,msp,False,only 4 yield seasons (<10); mean area 3 ha (<1000)
+RAMANAGARA,Rabi,sunflower,2,2023,2024,1,0,msp,False,only 2 yield seasons (<10); mean area 1 ha (<1000)
+RAMANAGARA,Rabi,wheat,4,2018,2021,8,0,msp,False,only 4 yield seasons (<10); mean area 8 ha (<1000)
+SHIMOGA,Kharif,bajra,12,2001,2024,7,0,msp,False,mean area 7 ha (<1000)
+SHIMOGA,Kharif,groundnut,28,1997,2024,1103,10,market,True,
+SHIMOGA,Kharif,jowar,28,1997,2024,847,23,market,False,mean area 847 ha (<1000)
+SHIMOGA,Kharif,maize,28,1997,2024,48261,23,market,True,
+SHIMOGA,Kharif,moong,24,1998,2024,64,23,market,False,mean area 64 ha (<1000)
+SHIMOGA,Kharif,paddy,28,1997,2024,106724,23,market,True,
+SHIMOGA,Kharif,ragi,28,1997,2024,2861,23,market,True,
+SHIMOGA,Kharif,soybean,14,1998,2024,19,2,msp,False,mean area 19 ha (<1000)
+SHIMOGA,Kharif,sunflower,22,1998,2023,57,15,market,False,mean area 57 ha (<1000)
+SHIMOGA,Kharif,tur,28,1997,2024,402,17,market,False,mean area 402 ha (<1000)
+SHIMOGA,Kharif,urad,24,1999,2024,37,20,market,False,mean area 37 ha (<1000)
+SHIMOGA,Rabi,gram,26,1998,2024,80,23,market,False,mean area 80 ha (<1000)
+SHIMOGA,Rabi,groundnut,18,1997,2024,1392,10,market,True,
+SHIMOGA,Rabi,jowar,28,1997,2024,190,23,market,False,mean area 190 ha (<1000)
+SHIMOGA,Rabi,maize,27,1997,2024,479,23,market,False,mean area 479 ha (<1000)
+SHIMOGA,Rabi,safflower,7,2004,2014,7,0,msp,False,only 7 yield seasons (<10); mean area 7 ha (<1000)
+SHIMOGA,Rabi,sunflower,27,1998,2024,424,15,market,False,mean area 424 ha (<1000)
+SHIMOGA,Rabi,wheat,7,1997,2024,39,23,market,False,only 7 yield seasons (<10); mean area 39 ha (<1000)
+TUMKUR,Kharif,bajra,28,1997,2024,182,7,market,False,mean area 182 ha (<1000)
+TUMKUR,Kharif,groundnut,28,1997,2024,102381,23,market,True,
+TUMKUR,Kharif,jowar,23,1997,2023,3856,15,market,True,
+TUMKUR,Kharif,maize,28,1997,2024,19774,23,market,True,
+TUMKUR,Kharif,moong,27,1998,2024,9124,22,market,True,
+TUMKUR,Kharif,paddy,28,1997,2024,15299,23,market,True,
+TUMKUR,Kharif,ragi,28,1997,2024,165213,23,market,True,
+TUMKUR,Kharif,soybean,20,1998,2024,10,0,msp,False,mean area 10 ha (<1000)
+TUMKUR,Kharif,sunflower,27,1998,2024,3801,20,market,True,
+TUMKUR,Kharif,tur,28,1997,2024,11853,17,market,True,
+TUMKUR,Kharif,urad,25,1999,2024,443,6,market,False,mean area 443 ha (<1000)
+TUMKUR,Rabi,gram,27,1998,2024,1021,20,market,True,
+TUMKUR,Rabi,groundnut,18,1997,2024,5611,23,market,True,
+TUMKUR,Rabi,jowar,22,1997,2023,1225,15,market,True,
+TUMKUR,Rabi,maize,28,1997,2024,472,23,market,False,mean area 472 ha (<1000)
+TUMKUR,Rabi,safflower,11,2001,2023,19,0,msp,False,mean area 19 ha (<1000)
+TUMKUR,Rabi,sunflower,18,1998,2024,763,20,market,False,mean area 763 ha (<1000)
+TUMKUR,Rabi,wheat,10,1997,2022,6,12,market,False,mean area 6 ha (<1000)
+UDUPI,Kharif,bajra,2,2019,2020,2,0,msp,False,only 2 yield seasons (<10); mean area 2 ha (<1000)
+UDUPI,Kharif,groundnut,6,1998,2024,389,13,market,False,only 6 yield seasons (<10); mean area 389 ha (<1000)
+UDUPI,Kharif,jowar,4,2018,2024,4,2,msp,False,only 4 yield seasons (<10); mean area 4 ha (<1000)
+UDUPI,Kharif,maize,5,2018,2024,1,2,msp,False,only 5 yield seasons (<10); mean area 1 ha (<1000)
+UDUPI,Kharif,moong,3,1998,2023,182,5,market,False,only 3 yield seasons (<10); mean area 182 ha (<1000)
+UDUPI,Kharif,paddy,27,1998,2024,44537,20,market,True,
+UDUPI,Kharif,ragi,2,2020,2021,1,5,market,False,only 2 yield seasons (<10); mean area 1 ha (<1000)
+UDUPI,Kharif,tur,3,2019,2024,1,5,market,False,only 3 yield seasons (<10); mean area 1 ha (<1000)
+UDUPI,Kharif,urad,5,2004,2024,1191,7,market,False,only 5 yield seasons (<10)
+UDUPI,Rabi,gram,4,2005,2019,106,7,market,False,only 4 yield seasons (<10); mean area 106 ha (<1000)
+UDUPI,Rabi,groundnut,25,1998,2024,1907,13,market,True,
+UDUPI,Rabi,jowar,4,2019,2024,4,2,msp,False,only 4 yield seasons (<10); mean area 4 ha (<1000)
+UDUPI,Rabi,maize,17,2005,2024,24,2,msp,False,mean area 24 ha (<1000)
+UDUPI,Rabi,safflower,1,2020,2020,1,0,msp,False,only 1 yield seasons (<10); mean area 1 ha (<1000)
+UDUPI,Rabi,sunflower,2,2005,2006,6,0,msp,False,only 2 yield seasons (<10); mean area 6 ha (<1000)
+UDUPI,Rabi,wheat,1,2018,2018,1,5,market,False,only 1 yield seasons (<10); mean area 1 ha (<1000)
+UTTAR KANNAD,Kharif,bajra,5,2018,2024,2,2,msp,False,only 5 yield seasons (<10); mean area 2 ha (<1000)
+UTTAR KANNAD,Kharif,groundnut,28,1997,2024,417,10,market,False,mean area 417 ha (<1000)
+UTTAR KANNAD,Kharif,jowar,23,1997,2024,100,4,msp,False,mean area 100 ha (<1000)
+UTTAR KANNAD,Kharif,maize,28,1997,2024,4199,22,market,True,
+UTTAR KANNAD,Kharif,moong,3,1998,2023,5,17,market,False,only 3 yield seasons (<10); mean area 5 ha (<1000)
+UTTAR KANNAD,Kharif,paddy,28,1997,2024,67603,23,market,True,
+UTTAR KANNAD,Kharif,ragi,26,1997,2024,23,3,msp,False,mean area 23 ha (<1000)
+UTTAR KANNAD,Kharif,soybean,19,1999,2024,58,4,msp,False,mean area 58 ha (<1000)
+UTTAR KANNAD,Kharif,sunflower,10,1999,2018,6,0,msp,False,mean area 6 ha (<1000)
+UTTAR KANNAD,Kharif,tur,26,1997,2024,75,1,msp,False,mean area 75 ha (<1000)
+UTTAR KANNAD,Kharif,urad,3,2021,2024,0,3,msp,False,only 3 yield seasons (<10); mean area 0 ha (<1000)
+UTTAR KANNAD,Rabi,gram,27,1998,2024,28,1,msp,False,mean area 28 ha (<1000)
+UTTAR KANNAD,Rabi,groundnut,27,1997,2024,2176,10,market,True,
+UTTAR KANNAD,Rabi,jowar,23,1997,2024,37,4,msp,False,mean area 37 ha (<1000)
+UTTAR KANNAD,Rabi,maize,27,1997,2024,464,22,market,False,mean area 464 ha (<1000)
+UTTAR KANNAD,Rabi,safflower,3,1999,2024,1,0,msp,False,only 3 yield seasons (<10); mean area 1 ha (<1000)
+UTTAR KANNAD,Rabi,sunflower,26,1998,2024,70,0,msp,False,mean area 70 ha (<1000)
+UTTAR KANNAD,Rabi,wheat,1,2024,2024,1,3,msp,False,only 1 yield seasons (<10); mean area 1 ha (<1000)
+YADGIR,Kharif,bajra,15,2010,2024,11745,8,market,True,
+YADGIR,Kharif,groundnut,15,2010,2024,2849,23,market,True,
+YADGIR,Kharif,jowar,15,2010,2024,398,4,msp,False,mean area 398 ha (<1000)
+YADGIR,Kharif,maize,15,2010,2024,235,0,msp,False,mean area 235 ha (<1000)
+YADGIR,Kharif,moong,15,2010,2024,24790,23,market,True,
+YADGIR,Kharif,paddy,15,2010,2024,71631,4,msp,True,
+YADGIR,Kharif,ragi,7,2018,2024,9,0,msp,False,only 7 yield seasons (<10); mean area 9 ha (<1000)
+YADGIR,Kharif,soybean,6,2019,2024,6,0,msp,False,only 6 yield seasons (<10); mean area 6 ha (<1000)
+YADGIR,Kharif,sunflower,15,2010,2024,3652,23,market,True,
+YADGIR,Kharif,tur,15,2010,2024,78979,14,market,True,
+YADGIR,Kharif,urad,15,2010,2024,411,22,market,False,mean area 411 ha (<1000)
+YADGIR,Rabi,gram,15,2010,2024,10623,22,market,True,
+YADGIR,Rabi,groundnut,6,2010,2024,17854,23,market,False,only 6 yield seasons (<10)
+YADGIR,Rabi,jowar,15,2010,2024,32459,4,msp,True,
+YADGIR,Rabi,maize,15,2010,2024,140,0,msp,False,mean area 140 ha (<1000)
+YADGIR,Rabi,safflower,15,2010,2024,394,14,market,False,mean area 394 ha (<1000)
+YADGIR,Rabi,sunflower,15,2010,2024,1073,23,market,True,
+YADGIR,Rabi,wheat,15,2010,2024,577,1,msp,False,mean area 577 ha (<1000)

@@ -1,0 +1,15 @@
+crop,cost_rs_per_q,cost_basis,reference_season,source,caveat
+paddy,1579,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India; per quintal of PADDY
+maize,1508,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India kharif cost; used for rabi maize too
+jowar,2466,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,Jowar HYBRID cost; Maldandi (rabi) cost not compiled by CACP
+ragi,3257,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India
+bajra,1703,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India
+tur,5038,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India
+moong,5845,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India
+urad,5114,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India
+groundnut,4842,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India kharif cost; used for rabi groundnut too
+soybean,3552,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India (yellow)
+sunflower,5147,"A2+FL, all-India projected",KMS 2025-26,PIB PRID 2131983,All-India kharif cost; used for rabi sunflower too
+gram,3699,"A2+FL, all-India projected",RMS 2026-27,PIB PRID 2177219,All-India
+wheat,1239,"A2+FL, all-India projected",RMS 2026-27,PIB PRID 2177219,All-India
+safflower,4360,"A2+FL, all-India projected",RMS 2026-27,PIB PRID 2177219,All-India

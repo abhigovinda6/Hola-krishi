@@ -1,0 +1,7454 @@
+[
+{
+"input": {
+"field_id": "V1",
+"farmer": "Basavaraj",
+"taluk": "Vijayapura",
+"season": "Rabi",
+"area_acres": 4.0,
+"soil_ph": 8.1,
+"soil_type": "deep_black",
+"irrigation": "none",
+"previous_crop": "jowar"
+},
+"district": "BIJAPUR",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 14697.51297473437,
+"net_worst": -259.59819761680956,
+"yields": {
+"bad": 1.7576893228907606,
+"typical": 3.2277404857490373,
+"good": 5.668328936864238
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "wheat",
+"feasible": true,
+"rank": 2,
+"net_typical": 9061.913959982405,
+"net_worst": 1645.1389658178996,
+"yields": {
+"bad": 2.4051083931223785,
+"typical": 4.257037755589174,
+"good": 6.98869702934675
+},
+"yield_method": "base_last_season",
+"price_base": 3337.25950730358
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 3,
+"net_typical": 5467.441892502751,
+"net_worst": -3791.9482230695703,
+"yields": {
+"bad": 1.0434738989515568,
+"typical": 2.496279997949215,
+"good": 3.6492024571013815
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 2401.7192257152383,
+"net_worst": -4955.512525721155,
+"yields": {
+"bad": 0.7256184478309183,
+"typical": 1.703756536330934,
+"good": 2.663116345127849
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "V2",
+"farmer": "Shantabai",
+"taluk": "Indi",
+"season": "Kharif",
+"area_acres": 2.5,
+"soil_ph": 7.6,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "fallow"
+},
+"district": "BIJAPUR",
+"results": [
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 1,
+"net_typical": 9195.611284539333,
+"net_worst": -1471.964754709572,
+"yields": {
+"bad": 1.7040501039147724,
+"typical": 2.763604948424842,
+"good": 4.599005096393151
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 7325.1552718176645,
+"net_worst": -3329.8917028407677,
+"yields": {
+"bad": 1.2901526344408345,
+"typical": 2.2177081154725387,
+"good": 3.8866788534713397
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 3,
+"net_typical": 7423.161065257044,
+"net_worst": 222.84714183278447,
+"yields": {
+"bad": 2.8517775505903002,
+"typical": 4.837551223188528,
+"good": 8.723916544210823
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "urad",
+"feasible": true,
+"rank": 4,
+"net_typical": 3574.0701625689708,
+"net_worst": -3592.3058790911496,
+"yields": {
+"bad": 0.44011002930605114,
+"typical": 1.2836071672288405,
+"good": 1.938468697038166
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 5,
+"net_typical": 5614.585527029998,
+"net_worst": -4668.784506415262,
+"yields": {
+"bad": 1.314163699085364,
+"typical": 2.2626818976098617,
+"good": 3.2458494509464075
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 6,
+"net_typical": 1405.1189277363933,
+"net_worst": -2578.386217656608,
+"yields": {
+"bad": 0.2001902456499867,
+"typical": 0.6164946983742535,
+"good": 1.0414333383539955
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 7,
+"net_typical": 6657.446614323129,
+"net_worst": -8884.07431722459,
+"yields": {
+"bad": 4.18355583332143,
+"typical": 7.205676565996674,
+"good": 10.449819250126547
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "D1",
+"farmer": "Mahantesh",
+"taluk": "Dharwad",
+"season": "Kharif",
+"area_acres": 3.0,
+"soil_ph": 6.8,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "maize"
+},
+"district": "DHARWAD",
+"results": [
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 1,
+"net_typical": 14355.0349990184,
+"net_worst": -2374.0933282315546,
+"yields": {
+"bad": 2.672329005161798,
+"typical": 4.333946311506901,
+"good": 7.212261356484758
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 13051.335703838862,
+"net_worst": -2428.1245707113067,
+"yields": {
+"bad": 1.8743105028472522,
+"typical": 3.2218463940751567,
+"good": 5.646497012667788
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "soybean",
+"feasible": true,
+"rank": 3,
+"net_typical": 6210.383224938447,
+"net_worst": -4712.673626384507,
+"yields": {
+"bad": 1.5894456811671704,
+"typical": 3.520502501406648,
+"good": 4.955310045749009
+},
+"yield_method": "base_hist_mean",
+"price_base": 5328.0
+},
+{
+"crop": "urad",
+"feasible": true,
+"rank": 4,
+"net_typical": 4142.465490910484,
+"net_worst": -4163.601289302544,
+"yields": {
+"bad": 0.5101020756944178,
+"typical": 1.4877431478034728,
+"good": 2.246749313090981
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 5,
+"net_typical": 2578.6178597679955,
+"net_worst": -4731.750899505572,
+"yields": {
+"bad": 0.3673811039012937,
+"typical": 1.131366326579276,
+"good": 1.9111966631633224
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 6,
+"net_typical": 2928.134063932527,
+"net_worst": -3907.4681543530896,
+"yields": {
+"bad": 1.8400466505517112,
+"typical": 3.1692611640597272,
+"good": 4.59612723628943
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "M1",
+"farmer": "Lakshmamma",
+"taluk": "Mandya",
+"season": "Kharif",
+"area_acres": 2.0,
+"soil_ph": 7.2,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "paddy"
+},
+"district": "MANDYA",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 18210.45925420911,
+"net_worst": 3777.8238051617845,
+"yields": {
+"bad": 17.52934805459461,
+"typical": 21.5013585093307,
+"good": 27.96591836847689
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 12513.156683020712,
+"net_worst": -3346.8187596356183,
+"yields": {
+"bad": 2.5334895857978954,
+"typical": 4.108778456694985,
+"good": 6.837552188152235
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 3,
+"net_typical": 8784.353856039424,
+"net_worst": -3217.4933658947157,
+"yields": {
+"bad": 7.072870362184243,
+"typical": 10.973725396330584,
+"good": 14.935633126360308
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 4,
+"net_typical": 11356.569081945185,
+"net_worst": -7297.887585050512,
+"yields": {
+"bad": 4.460669597009598,
+"typical": 7.130977768072712,
+"good": 9.280077388946786
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 5,
+"net_typical": 4021.888617391669,
+"net_worst": -5367.036259161955,
+"yields": {
+"bad": 2.527364703166857,
+"typical": 4.353084634435988,
+"good": 6.312932199180291
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R0",
+"taluk": "Nelamangala",
+"season": "Kharif",
+"area_acres": 2.9,
+"soil_ph": 7.0,
+"soil_type": "red",
+"irrigation": "protective",
+"previous_crop": "wheat"
+},
+"district": "BANGALORE RURAL",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 14988.908204875466,
+"net_worst": -4870.847551437339,
+"yields": {
+"bad": 2.404692937468711,
+"typical": 4.133547380581985,
+"good": 7.244312757770935
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 12983.662003185378,
+"net_worst": -4586.607324943052,
+"yields": {
+"bad": 2.8066937760038586,
+"typical": 4.551857243081048,
+"good": 7.574894042260082
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R1",
+"taluk": "Hebri",
+"season": "Kharif",
+"area_acres": 1.4,
+"soil_ph": 5.6,
+"soil_type": "red",
+"irrigation": "protective",
+"previous_crop": "paddy"
+},
+"district": "UDUPI",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 16828.568429801024,
+"net_worst": 4545.554472224925,
+"yields": {
+"bad": 14.91849687341805,
+"typical": 18.298909274701423,
+"good": 23.800626494664886
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R2",
+"taluk": "Harohalli",
+"season": "Rabi",
+"area_acres": 3.0,
+"soil_ph": 8.0,
+"soil_type": "deep_black",
+"irrigation": "protective",
+"previous_crop": "paddy"
+},
+"district": "RAMANAGARA",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R3",
+"taluk": "Ilkal",
+"season": "Kharif",
+"area_acres": 6.7,
+"soil_ph": 5.5,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "moong"
+},
+"district": "BAGALKOT",
+"results": [
+{
+"crop": "maize",
+"feasible": true,
+"rank": 1,
+"net_typical": 12331.563862144787,
+"net_worst": -4649.4723926242805,
+"yields": {
+"bad": 10.007181879972052,
+"typical": 15.526379011425167,
+"good": 21.131957682575973
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R4",
+"taluk": "Sakleshpura",
+"season": "Kharif",
+"area_acres": 5.5,
+"soil_ph": 7.9,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "urad"
+},
+"district": "HASSAN",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 22042.603167387693,
+"net_worst": 8231.506074743244,
+"yields": {
+"bad": 16.774450432664725,
+"typical": 20.575407107350223,
+"good": 26.761572079858638
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 7349.142080798261,
+"net_worst": -2777.982835679796,
+"yields": {
+"bad": 1.226229872226764,
+"typical": 2.1078280712504793,
+"good": 3.6941068728230313
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 3,
+"net_typical": 8545.959947165597,
+"net_worst": -7028.019713363841,
+"yields": {
+"bad": 3.7240633064955273,
+"typical": 5.953413959042844,
+"good": 7.747625089467298
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 7004.248620853621,
+"net_worst": -5824.3528899309795,
+"yields": {
+"bad": 1.6394316610871296,
+"typical": 2.822717097186654,
+"good": 4.049227931579137
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 5,
+"net_typical": 2059.8163947041803,
+"net_worst": -3779.752801112897,
+"yields": {
+"bad": 0.2934663692232744,
+"typical": 0.9037426383581736,
+"good": 1.5266760855530286
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 6,
+"net_typical": 3824.4460652981998,
+"net_worst": -5103.557720346935,
+"yields": {
+"bad": 2.4032913176170005,
+"typical": 4.139383007795887,
+"good": 6.003017737797829
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R5",
+"taluk": "Jagaluru",
+"season": "Kharif",
+"area_acres": 6.9,
+"soil_ph": 7.9,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "safflower"
+},
+"district": "DAVANGERE",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 9751.066409302748,
+"net_worst": -7313.065148224434,
+"yields": {
+"bad": 2.0661883833782357,
+"typical": 3.551674913177209,
+"good": 6.224543114191191
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 2,
+"net_typical": 8940.696612261312,
+"net_worst": -6247.978159137943,
+"yields": {
+"bad": 3.6319288726064403,
+"typical": 5.80612472691108,
+"good": 7.555946540298194
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 3,
+"net_typical": 6655.552687234753,
+"net_worst": -5534.396282360888,
+"yields": {
+"bad": 1.5578150331500369,
+"typical": 2.6821923918506694,
+"good": 3.8476432377072203
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 4,
+"net_typical": 7381.422264602337,
+"net_worst": -9850.188482842337,
+"yields": {
+"bad": 4.63850391332435,
+"typical": 7.989270439110966,
+"good": 11.586203080923472
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R6",
+"taluk": "Yellapura",
+"season": "Kharif",
+"area_acres": 2.3,
+"soil_ph": 8.6,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "sunflower"
+},
+"district": "UTTAR KANNAD",
+"results": [
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R7",
+"taluk": "Shahapura",
+"season": "Rabi",
+"area_acres": 5.3,
+"soil_ph": 8.3,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "soybean"
+},
+"district": "YADGIR",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 20316.812540386025,
+"net_worst": -538.557431156245,
+"yields": {
+"bad": 2.450824942163888,
+"typical": 4.500583115732772,
+"good": 7.903604896460747
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 6098.146837173455,
+"net_worst": -4229.374087166045,
+"yields": {
+"bad": 1.163845392721984,
+"typical": 2.784242114226678,
+"good": 4.070161669663726
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 5989.492623366943,
+"net_worst": -4322.028923677147,
+"yields": {
+"bad": 2.762978426525588,
+"typical": 4.870513036106099,
+"good": 6.9280017207098314
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R8",
+"taluk": "Mandya",
+"season": "Rabi",
+"area_acres": 8.5,
+"soil_ph": 7.1,
+"soil_type": "deep_black",
+"irrigation": "protective",
+"previous_crop": "urad"
+},
+"district": "MANDYA",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R9",
+"taluk": "Sira",
+"season": "Rabi",
+"area_acres": 4.4,
+"soil_ph": 6.0,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "fallow"
+},
+"district": "TUMKUR",
+"results": [
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 1,
+"net_typical": 7525.925425512452,
+"net_worst": -1879.4339425208482,
+"yields": {
+"bad": 2.5201717233520937,
+"typical": 4.44249912122818,
+"good": 6.319178560443194
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 5547.184358097407,
+"net_worst": -3847.2536669425954,
+"yields": {
+"bad": 1.0586929324816918,
+"typical": 2.5326881620897526,
+"good": 3.702425958531249
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R10",
+"taluk": "Devadurga",
+"season": "Kharif",
+"area_acres": 7.9,
+"soil_ph": 7.1,
+"soil_type": "red",
+"irrigation": "protective",
+"previous_crop": "cotton"
+},
+"district": "RAICHUR",
+"results": [
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 1,
+"net_typical": 10093.200446837667,
+"net_worst": -3979.8640261321525,
+"yields": {
+"bad": 2.248046499910585,
+"typical": 3.6458507981481074,
+"good": 6.067179178749463
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 8184.419489368205,
+"net_worst": -2391.575228278026,
+"yields": {
+"bad": 1.280580693755321,
+"typical": 2.20125442621717,
+"good": 3.8578426844352696
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 3,
+"net_typical": 7235.198145412524,
+"net_worst": -435.2341052110669,
+"yields": {
+"bad": 3.0379740006182083,
+"typical": 5.153401547628953,
+"good": 9.293512966812424
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 5926.846132933817,
+"net_worst": -4928.443473544538,
+"yields": {
+"bad": 1.387252184594689,
+"typical": 2.3885231403719085,
+"good": 3.4263705083504874
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 5,
+"net_typical": 2199.667356423388,
+"net_worst": -4036.3786176932244,
+"yields": {
+"bad": 0.3133912295523976,
+"typical": 0.9651021252745771,
+"good": 1.6303295564872518
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 6,
+"net_typical": 4129.39075671351,
+"net_worst": -5510.493210501395,
+"yields": {
+"bad": 2.594919312029485,
+"typical": 4.469439400907467,
+"good": 6.4816722567420415
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R11",
+"taluk": "Chikkanayakanahalli",
+"season": "Kharif",
+"area_acres": 5.0,
+"soil_ph": 6.5,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "tur"
+},
+"district": "TUMKUR",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 16060.003981244176,
+"net_worst": 3743.953296722564,
+"yields": {
+"bad": 14.958622066578858,
+"typical": 18.348126516593116,
+"good": 23.864641304169478
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 11652.971946434216,
+"net_worst": -1498.886262452881,
+"yields": {
+"bad": 2.100892017555694,
+"typical": 3.4071976888970363,
+"good": 5.6700287588454445
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 3,
+"net_typical": 12233.812085110654,
+"net_worst": -596.5793511900956,
+"yields": {
+"bad": 7.561144017829761,
+"typical": 11.73129350389331,
+"good": 15.966710441869896
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 4,
+"net_typical": 11271.818626110278,
+"net_worst": -5222.448328589791,
+"yields": {
+"bad": 3.94412318960561,
+"typical": 6.305209154803293,
+"good": 8.205442621353813
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 5,
+"net_typical": 8577.663934991499,
+"net_worst": -7132.719643886061,
+"yields": {
+"bad": 2.0077091197651487,
+"typical": 3.4568045701768733,
+"good": 4.958835454506414
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 6,
+"net_typical": 2381.926194837196,
+"net_worst": -4370.82267629637,
+"yields": {
+"bad": 0.33935802916893953,
+"typical": 1.0450680309328069,
+"good": 1.7654145139147281
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 7,
+"net_typical": 4139.98259794791,
+"net_worst": -5524.627564125831,
+"yields": {
+"bad": 2.601575251122778,
+"typical": 4.48090346312154,
+"good": 6.498297673788178
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R12",
+"taluk": "Hulsuru",
+"season": "Kharif",
+"area_acres": 9.8,
+"soil_ph": 7.9,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "gram"
+},
+"district": "BIDAR",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 16649.67769807933,
+"net_worst": -4133.145910911411,
+"yields": {
+"bad": 2.5164614190842745,
+"typical": 4.325671833236618,
+"good": 7.581023455701717
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "urad",
+"feasible": true,
+"rank": 2,
+"net_typical": 4765.756392045079,
+"net_worst": -4790.07236196902,
+"yields": {
+"bad": 0.5868539480100324,
+"typical": 1.7115945641365595,
+"good": 2.584803644998576
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 3,
+"net_typical": 4597.7709743968535,
+"net_worst": -3823.256727672454,
+"yields": {
+"bad": 1.0761655837589317,
+"typical": 1.8529049211272672,
+"good": 2.6580185342225384
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 4,
+"net_typical": 3097.2390536570483,
+"net_worst": -5683.418201192517,
+"yields": {
+"bad": 0.44127015496631233,
+"typical": 1.3589109209804044,
+"good": 2.2955836290147547
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 5,
+"net_typical": 4765.733836853915,
+"net_worst": -6359.665504734468,
+"yields": {
+"bad": 2.9947988693341725,
+"typical": 5.15818430359086,
+"good": 7.480504174406938
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 6,
+"net_typical": 646.6634639735539,
+"net_worst": -2996.3707393072445,
+"yields": {
+"bad": 1.4428708619426467,
+"typical": 2.4475828073087,
+"good": 4.413908434427381
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R13",
+"taluk": "Indi",
+"season": "Rabi",
+"area_acres": 4.9,
+"soil_ph": 6.3,
+"soil_type": "deep_black",
+"irrigation": "protective",
+"previous_crop": "bajra"
+},
+"district": "BIJAPUR",
+"results": [
+{
+"crop": "wheat",
+"feasible": true,
+"rank": 1,
+"net_typical": 9061.913959982405,
+"net_worst": 1645.1389658178996,
+"yields": {
+"bad": 2.4051083931223785,
+"typical": 4.257037755589174,
+"good": 6.98869702934675
+},
+"yield_method": "base_last_season",
+"price_base": 3337.25950730358
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 5467.441892502751,
+"net_worst": -3791.9482230695703,
+"yields": {
+"bad": 1.0434738989515568,
+"typical": 2.496279997949215,
+"good": 3.6492024571013815
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 4113.581177796477,
+"net_worst": -3193.4386655208,
+"yields": {
+"bad": 1.957920380340713,
+"typical": 3.4513757489227865,
+"good": 4.909367237105239
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 2401.7192257152383,
+"net_worst": -4955.512525721155,
+"yields": {
+"bad": 0.7256184478309183,
+"typical": 1.703756536330934,
+"good": 2.663116345127849
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R14",
+"taluk": "Somawarapete",
+"season": "Kharif",
+"area_acres": 4.5,
+"soil_ph": 5.7,
+"soil_type": "shallow_black",
+"irrigation": "full",
+"previous_crop": "moong"
+},
+"district": "KODAGU",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 15965.385259977847,
+"net_worst": 4173.27233719184,
+"yields": {
+"bad": 14.322266536306316,
+"typical": 17.567577898745412,
+"good": 22.84941433979494
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 2,
+"net_typical": 14298.139261825268,
+"net_worst": -5525.5074754603775,
+"yields": {
+"bad": 11.682375294889198,
+"typical": 18.125481155206717,
+"good": 24.669428748731704
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R15",
+"taluk": "Kalgi",
+"season": "Rabi",
+"area_acres": 5.1,
+"soil_ph": 6.6,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "sunflower"
+},
+"district": "GULBARGA",
+"results": [
+{
+"crop": "gram",
+"feasible": true,
+"rank": 1,
+"net_typical": 7597.358485233899,
+"net_worst": -5269.153394681592,
+"yields": {
+"bad": 1.449973394539505,
+"typical": 3.4687399330105615,
+"good": 5.070799067807674
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 7943.265774984717,
+"net_worst": -2623.67045652269,
+"yields": {
+"bad": 2.8314169454939444,
+"typical": 4.991154839026845,
+"good": 7.0996071782927315
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 3,
+"net_typical": 3774.947224631769,
+"net_worst": -7788.919726879441,
+"yields": {
+"bad": 1.1405044005363298,
+"typical": 2.677911280972216,
+"good": 4.18580304819687
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R16",
+"taluk": "Hirekeruru",
+"season": "Kharif",
+"area_acres": 8.1,
+"soil_ph": 7.5,
+"soil_type": "medium_black",
+"irrigation": "none",
+"previous_crop": "groundnut"
+},
+"district": "HAVERI",
+"results": [
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 1,
+"net_typical": 9660.419481455423,
+"net_worst": -2285.704340723565,
+"yields": {
+"bad": 2.856567322595084,
+"typical": 4.566605445084863,
+"good": 5.942866927017069
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 8012.055893788605,
+"net_worst": -5527.16942456712,
+"yields": {
+"bad": 1.6393796530704305,
+"typical": 2.8180119653288807,
+"good": 4.938750703060497
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 3,
+"net_typical": 8381.671535459718,
+"net_worst": -3601.60845771616,
+"yields": {
+"bad": 7.061928413035598,
+"typical": 10.956748703826813,
+"good": 14.912527240093084
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 5385.0429624252065,
+"net_worst": -4477.909371638112,
+"yields": {
+"bad": 1.2604364017904297,
+"typical": 2.1701760833940527,
+"good": 3.113148541199037
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 5,
+"net_typical": 2695.471532842723,
+"net_worst": -4946.176806232058,
+"yields": {
+"bad": 0.384029492202217,
+"typical": 1.1826357732532173,
+"good": 1.997805211697492
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 6,
+"net_typical": 5105.487885575329,
+"net_worst": -6813.052575375793,
+"yields": {
+"bad": 3.208301149527455,
+"typical": 5.525916548233618,
+"good": 8.013796982343095
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R17",
+"taluk": "Ballari",
+"season": "Kharif",
+"area_acres": 1.3,
+"soil_ph": 5.6,
+"soil_type": "deep_black",
+"irrigation": "protective",
+"previous_crop": "urad"
+},
+"district": "BELLARY",
+"results": [
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R18",
+"taluk": "Chitradurga",
+"season": "Kharif",
+"area_acres": 8.1,
+"soil_ph": 6.1,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "tur"
+},
+"district": "CHITRADURGA",
+"results": [
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 1,
+"net_typical": 6232.6401172897295,
+"net_worst": 258.9215687405922,
+"yields": {
+"bad": 2.3659685718529904,
+"typical": 4.013459660071979,
+"good": 7.237770829214466
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 2,
+"net_typical": 1916.5925276785774,
+"net_worst": -3516.9377201338016,
+"yields": {
+"bad": 0.2730609639890097,
+"typical": 0.8409032921939402,
+"good": 1.4205227151698308
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R19",
+"taluk": "Bhalki",
+"season": "Rabi",
+"area_acres": 5.5,
+"soil_ph": 6.0,
+"soil_type": "shallow_black",
+"irrigation": "full",
+"previous_crop": "soybean"
+},
+"district": "BIDAR",
+"results": [
+{
+"crop": "wheat",
+"feasible": true,
+"rank": 1,
+"net_typical": 10962.102680900109,
+"net_worst": 1985.0914836949032,
+"yields": {
+"bad": 2.9110610733828786,
+"typical": 5.15257313710031,
+"good": 8.458880245886157
+},
+"yield_method": "base_last_season",
+"price_base": 3337.25950730358
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 7283.265551054212,
+"net_worst": -803.7316493054968,
+"yields": {
+"bad": 2.1669157842541593,
+"typical": 3.819787904976685,
+"good": 5.433410604231179
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 3,
+"net_typical": 5946.187676120569,
+"net_worst": -4123.982702664312,
+"yields": {
+"bad": 1.134843636254723,
+"typical": 2.714861840654566,
+"good": 3.9687376847735223
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 6010.017153842851,
+"net_worst": -12400.581619526267,
+"yields": {
+"bad": 1.815773997191504,
+"typical": 4.263448407992574,
+"good": 6.664132403791373
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R20",
+"taluk": "Savanuru",
+"season": "Rabi",
+"area_acres": 5.2,
+"soil_ph": 5.9,
+"soil_type": "shallow_black",
+"irrigation": "protective",
+"previous_crop": "sunflower"
+},
+"district": "HAVERI",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R21",
+"taluk": "Holenarsipura",
+"season": "Kharif",
+"area_acres": 3.0,
+"soil_ph": 6.3,
+"soil_type": "medium_black",
+"irrigation": "full",
+"previous_crop": "safflower"
+},
+"district": "HASSAN",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 22042.603167387693,
+"net_worst": 8231.506074743244,
+"yields": {
+"bad": 16.774450432664725,
+"typical": 20.575407107350223,
+"good": 26.761572079858638
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 2,
+"net_typical": 14706.988781138934,
+"net_worst": -3133.380406877637,
+"yields": {
+"bad": 10.51359979401676,
+"typical": 16.31209836438005,
+"good": 22.201349850885503
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 3,
+"net_typical": 7349.142080798261,
+"net_worst": -2777.982835679796,
+"yields": {
+"bad": 1.226229872226764,
+"typical": 2.1078280712504793,
+"good": 3.6941068728230313
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 4,
+"net_typical": 8545.959947165597,
+"net_worst": -7028.019713363841,
+"yields": {
+"bad": 3.7240633064955273,
+"typical": 5.953413959042844,
+"good": 7.747625089467298
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "urad",
+"feasible": true,
+"rank": 5,
+"net_typical": 2743.609869763648,
+"net_worst": -2757.60838953431,
+"yields": {
+"bad": 0.3378473743554406,
+"typical": 0.9853520307998268,
+"good": 1.488051886927431
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 6,
+"net_typical": 2059.8163947041803,
+"net_worst": -3779.752801112897,
+"yields": {
+"bad": 0.2934663692232744,
+"typical": 0.9037426383581736,
+"good": 1.5266760855530286
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 7,
+"net_typical": 3824.4460652981998,
+"net_worst": -5103.557720346935,
+"yields": {
+"bad": 2.4032913176170005,
+"typical": 4.139383007795887,
+"good": 6.003017737797829
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R22",
+"taluk": "Ankola",
+"season": "Kharif",
+"area_acres": 2.6,
+"soil_ph": 6.7,
+"soil_type": "deep_black",
+"irrigation": "full",
+"previous_crop": "tur"
+},
+"district": "UTTAR KANNAD",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 12622.690433487809,
+"net_worst": 3519.571824837607,
+"yields": {
+"bad": 11.056312967692916,
+"typical": 13.561585300796013,
+"good": 17.63898719723283
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 2,
+"net_typical": 12378.765744630706,
+"net_worst": -4003.9894637623547,
+"yields": {
+"bad": 9.65460579706408,
+"typical": 14.979348892531384,
+"good": 20.387430106954408
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R23",
+"taluk": "Hangala",
+"season": "Rabi",
+"area_acres": 5.7,
+"soil_ph": 6.2,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "paddy"
+},
+"district": "HAVERI",
+"results": [
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 1,
+"net_typical": 8038.097886469974,
+"net_worst": -1001.7636261551379,
+"yields": {
+"bad": 2.422236352240574,
+"typical": 4.269860964840415,
+"good": 6.073611525585029
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 4335.098881058653,
+"net_worst": -3006.610920072613,
+"yields": {
+"bad": 0.8273636228236382,
+"typical": 1.9792840671535854,
+"good": 2.893428736797266
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 3,
+"net_typical": 3516.1459894758045,
+"net_worst": -7254.930262684036,
+"yields": {
+"bad": 1.0623141822377402,
+"typical": 2.494320172033918,
+"good": 3.898834533266541
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R24",
+"taluk": "Gajendragada",
+"season": "Rabi",
+"area_acres": 6.8,
+"soil_ph": 6.8,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "moong"
+},
+"district": "GADAG",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 11293.851146278394,
+"net_worst": -1216.6422666550498,
+"yields": {
+"bad": 1.470174316592424,
+"typical": 2.6997610447843114,
+"good": 4.741128885774861
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 5701.587094881877,
+"net_worst": -1384.908849277237,
+"yields": {
+"bad": 1.8988308683683535,
+"typical": 3.3472141544653065,
+"good": 4.76120385056183
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 3,
+"net_typical": 3957.557944535656,
+"net_worst": -2744.7671343439515,
+"yields": {
+"bad": 0.7553090640751153,
+"typical": 1.806909507573591,
+"good": 2.641441913653286
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 3241.430765993571,
+"net_worst": -6688.105166562705,
+"yields": {
+"bad": 0.9793159566648327,
+"typical": 2.2994398327227805,
+"good": 3.5942199912843855
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R25",
+"taluk": "Babaleshwara",
+"season": "Kharif",
+"area_acres": 3.4,
+"soil_ph": 8.2,
+"soil_type": "shallow_black",
+"irrigation": "protective",
+"previous_crop": "tur"
+},
+"district": "BIJAPUR",
+"results": [
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 1,
+"net_typical": 7423.161065257044,
+"net_worst": 222.84714183278447,
+"yields": {
+"bad": 2.8517775505903002,
+"typical": 4.837551223188528,
+"good": 8.723916544210823
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 2,
+"net_typical": 5614.585527029998,
+"net_worst": -4668.784506415262,
+"yields": {
+"bad": 1.314163699085364,
+"typical": 2.2626818976098617,
+"good": 3.2458494509464075
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 6657.446614323129,
+"net_worst": -8884.07431722459,
+"yields": {
+"bad": 4.18355583332143,
+"typical": 7.205676565996674,
+"good": 10.449819250126547
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R26",
+"taluk": "Channarayapattana",
+"season": "Rabi",
+"area_acres": 1.7,
+"soil_ph": 7.2,
+"soil_type": "deep_black",
+"irrigation": "full",
+"previous_crop": "moong"
+},
+"district": "HASSAN",
+"results": [
+{
+"crop": "maize",
+"feasible": true,
+"rank": 1,
+"net_typical": 12003.069924392295,
+"net_worst": -123.75216814851228,
+"yields": {
+"bad": 9.279390343653727,
+"typical": 12.704820527463744,
+"good": 17.32801891846618
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 8743.015408470099,
+"net_worst": -4326.900248144382,
+"yields": {
+"bad": 3.553545514598877,
+"typical": 4.517410659864099,
+"good": 5.866708523982652
+},
+"yield_method": "base_hist_mean",
+"price_base": 7263.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 3,
+"net_typical": 5381.637134202068,
+"net_worst": -3732.4382717676026,
+"yields": {
+"bad": 1.027097862872347,
+"typical": 2.4571039616810344,
+"good": 3.5919327245686588
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R27",
+"taluk": "Surapura",
+"season": "Rabi",
+"area_acres": 2.1,
+"soil_ph": 8.2,
+"soil_type": "deep_black",
+"irrigation": "protective",
+"previous_crop": "moong"
+},
+"district": "YADGIR",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 20316.812540386025,
+"net_worst": -538.557431156245,
+"yields": {
+"bad": 2.450824942163888,
+"typical": 4.500583115732772,
+"good": 7.903604896460747
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 6098.146837173455,
+"net_worst": -4229.374087166045,
+"yields": {
+"bad": 1.163845392721984,
+"typical": 2.784242114226678,
+"good": 4.070161669663726
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 5989.492623366943,
+"net_worst": -4322.028923677147,
+"yields": {
+"bad": 2.762978426525588,
+"typical": 4.870513036106099,
+"good": 6.9280017207098314
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R28",
+"taluk": "Jagaluru",
+"season": "Kharif",
+"area_acres": 2.5,
+"soil_ph": 7.6,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "moong"
+},
+"district": "DAVANGERE",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 20861.848618502892,
+"net_worst": 5012.803295559159,
+"yields": {
+"bad": 19.249667379166297,
+"typical": 23.611488471548565,
+"good": 30.710476217910138
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 18413.97684592411,
+"net_worst": -2840.5120415364036,
+"yields": {
+"bad": 3.3952149826796645,
+"typical": 5.5063128164739545,
+"good": 9.16323468002624
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 3,
+"net_typical": 11077.440601799066,
+"net_worst": -2906.631137775208,
+"yields": {
+"bad": 8.241025295567281,
+"typical": 12.786145362042431,
+"good": 17.402401584755875
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 4,
+"net_typical": 9751.066409302748,
+"net_worst": -7313.065148224434,
+"yields": {
+"bad": 2.0661883833782357,
+"typical": 3.551674913177209,
+"good": 6.224543114191191
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 5,
+"net_typical": 8940.696612261312,
+"net_worst": -6247.978159137943,
+"yields": {
+"bad": 3.6319288726064403,
+"typical": 5.80612472691108,
+"good": 7.555946540298194
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 6,
+"net_typical": 6655.552687234753,
+"net_worst": -5534.396282360888,
+"yields": {
+"bad": 1.5578150331500369,
+"typical": 2.6821923918506694,
+"good": 3.8476432377072203
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 7,
+"net_typical": 7381.422264602337,
+"net_worst": -9850.188482842337,
+"yields": {
+"bad": 4.63850391332435,
+"typical": 7.989270439110966,
+"good": 11.586203080923472
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R29",
+"taluk": "Sedam",
+"season": "Kharif",
+"area_acres": 9.4,
+"soil_ph": 6.7,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "sunflower"
+},
+"district": "GULBARGA",
+"results": [
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 1,
+"net_typical": 14811.486851226618,
+"net_worst": -1664.8150382309177,
+"yields": {
+"bad": 2.6319422372580643,
+"typical": 4.268447608520861,
+"good": 7.103262829393674
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 2,
+"net_typical": 10151.678189257915,
+"net_worst": -2447.953240837831,
+"yields": {
+"bad": 7.425153650806761,
+"typical": 11.520301237976003,
+"good": 15.679542414383617
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 3,
+"net_typical": 7573.980896616396,
+"net_worst": -5812.559833286525,
+"yields": {
+"bad": 1.6208920364039432,
+"typical": 2.786232673156382,
+"good": 4.883055410247438
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 4,
+"net_typical": 6126.925664358112,
+"net_worst": -1718.0782126522,
+"yields": {
+"bad": 3.107115353397301,
+"typical": 5.270687987323443,
+"good": 9.505024341980445
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "urad",
+"feasible": true,
+"rank": 5,
+"net_typical": 5480.995687820301,
+"net_worst": -5508.960970838281,
+"yields": {
+"bad": 0.674928320673778,
+"typical": 1.9684687284872902,
+"good": 2.9727280344725995
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 6,
+"net_typical": 3396.384836246607,
+"net_worst": -6232.349218826435,
+"yields": {
+"bad": 0.4838900830874402,
+"typical": 1.4901608709789989,
+"good": 2.5173017945501415
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 7,
+"net_typical": 4524.627972901451,
+"net_worst": -6037.920166354447,
+"yields": {
+"bad": 2.8432873511770134,
+"typical": 4.8972237620419605,
+"good": 7.102053869897058
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R30",
+"taluk": "Pandavapura",
+"season": "Rabi",
+"area_acres": 9.0,
+"soil_ph": 5.6,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "bajra"
+},
+"district": "MANDYA",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R31",
+"taluk": "Honnali",
+"season": "Rabi",
+"area_acres": 2.5,
+"soil_ph": 7.6,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "gram"
+},
+"district": "DAVANGERE",
+"results": [
+{
+"crop": "maize",
+"feasible": true,
+"rank": 1,
+"net_typical": 10786.48880273576,
+"net_worst": -1037.894141687777,
+"yields": {
+"bad": 9.04796525230119,
+"typical": 12.387966279253703,
+"good": 16.895863549131263
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 10900.40451594182,
+"net_worst": -5394.587656703676,
+"yields": {
+"bad": 4.430403215052379,
+"typical": 5.6321076032236945,
+"good": 7.314352440301272
+},
+"yield_method": "base_hist_mean",
+"price_base": 7263.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 8669.352441897314,
+"net_worst": -3056.210259082146,
+"yields": {
+"bad": 3.1418716077809536,
+"typical": 5.5384169766071984,
+"good": 7.878053514998817
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 7255.635452297956,
+"net_worst": -7719.666186665994,
+"yields": {
+"bad": 1.7598269809301534,
+"typical": 3.2316659834513772,
+"good": 5.675222617541483
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R32",
+"taluk": "Hosapete",
+"season": "Rabi",
+"area_acres": 7.8,
+"soil_ph": 7.2,
+"soil_type": "deep_black",
+"irrigation": "full",
+"previous_crop": "maize"
+},
+"district": "BELLARY",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 20806.158229395223,
+"net_worst": 692.0497723233893,
+"yields": {
+"bad": 2.36371537705863,
+"typical": 4.340619084362418,
+"good": 7.622687408863036
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 12645.265284047235,
+"net_worst": -3692.5068755177344,
+"yields": {
+"bad": 4.377715917910146,
+"typical": 7.716934103377113,
+"good": 10.976858567150828
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 3,
+"net_typical": 7691.991553477925,
+"net_worst": -3806.7507154596333,
+"yields": {
+"bad": 3.1263632518265188,
+"typical": 3.974359304640203,
+"good": 5.1614540641748725
+},
+"yield_method": "base_hist_mean",
+"price_base": 7263.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 4,
+"net_typical": 6265.519410740715,
+"net_worst": -4345.455454907556,
+"yields": {
+"bad": 1.1957888345274237,
+"typical": 2.8606597178914113,
+"good": 4.181873219364977
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 5,
+"net_typical": 2878.6912945816584,
+"net_worst": -5939.657981351081,
+"yields": {
+"bad": 0.8697234408558561,
+"typical": 2.0421159379118756,
+"good": 3.1920008621718137
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R33",
+"taluk": "Rayabaga",
+"season": "Kharif",
+"area_acres": 2.1,
+"soil_ph": 8.3,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "sunflower"
+},
+"district": "BELGAUM",
+"results": [
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 1,
+"net_typical": 9913.730698707697,
+"net_worst": 1734.8968694841806,
+"yields": {
+"bad": 3.239333028009952,
+"typical": 5.494972582528696,
+"good": 9.909493462915782
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 7239.3804724177135,
+"net_worst": -2573.325106004854,
+"yields": {
+"bad": 1.1881588117916284,
+"typical": 2.0423858147005487,
+"good": 3.579415028174276
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 5664.031947729403,
+"net_worst": -7558.405447893844,
+"yields": {
+"bad": 3.5592916125023217,
+"typical": 6.130455809739872,
+"good": 8.890512160228898
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R34",
+"taluk": "Srirangapattana",
+"season": "Rabi",
+"area_acres": 4.0,
+"soil_ph": 6.6,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "cotton"
+},
+"district": "MANDYA",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R35",
+"taluk": "Nelamangala",
+"season": "Kharif",
+"area_acres": 3.5,
+"soil_ph": 6.8,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "bajra"
+},
+"district": "BANGALORE RURAL",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 14988.908204875466,
+"net_worst": -4870.847551437339,
+"yields": {
+"bad": 2.404692937468711,
+"typical": 4.133547380581985,
+"good": 7.244312757770935
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 12983.662003185378,
+"net_worst": -4586.607324943052,
+"yields": {
+"bad": 2.8066937760038586,
+"typical": 4.551857243081048,
+"good": 7.574894042260082
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R36",
+"taluk": "Nyamathi",
+"season": "Kharif",
+"area_acres": 6.3,
+"soil_ph": 7.9,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "urad"
+},
+"district": "DAVANGERE",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 9751.066409302748,
+"net_worst": -7313.065148224434,
+"yields": {
+"bad": 2.0661883833782357,
+"typical": 3.551674913177209,
+"good": 6.224543114191191
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "ragi",
+"feasible": true,
+"rank": 2,
+"net_typical": 8940.696612261312,
+"net_worst": -6247.978159137943,
+"yields": {
+"bad": 3.6319288726064403,
+"typical": 5.80612472691108,
+"good": 7.555946540298194
+},
+"yield_method": "model",
+"price_base": 4886.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 3,
+"net_typical": 6655.552687234753,
+"net_worst": -5534.396282360888,
+"yields": {
+"bad": 1.5578150331500369,
+"typical": 2.6821923918506694,
+"good": 3.8476432377072203
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 4,
+"net_typical": 7381.422264602337,
+"net_worst": -9850.188482842337,
+"yields": {
+"bad": 4.63850391332435,
+"typical": 7.989270439110966,
+"good": 11.586203080923472
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R37",
+"taluk": "Gangavathi",
+"season": "Kharif",
+"area_acres": 9.5,
+"soil_ph": 6.6,
+"soil_type": "shallow_black",
+"irrigation": "full",
+"previous_crop": "ragi"
+},
+"district": "KOPPAL",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 17609.131397115372,
+"net_worst": 1823.8104775103566,
+"yields": {
+"bad": 19.172270063226367,
+"typical": 23.516553541139206,
+"good": 30.586998321711487
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 10265.252217751253,
+"net_worst": -2909.3656651578603,
+"yields": {
+"bad": 2.1045276724354522,
+"typical": 3.4130939438213375,
+"good": 5.679840908900376
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 3,
+"net_typical": 6531.8154072260195,
+"net_worst": -2443.7412667641465,
+"yields": {
+"bad": 1.0867937153221832,
+"typical": 1.8681442629144103,
+"good": 3.2740452863230507
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 4,
+"net_typical": 5817.566073640778,
+"net_worst": -1010.6346461696803,
+"yields": {
+"bad": 2.704397298613813,
+"typical": 4.587545917523957,
+"good": 8.273063349773725
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 5,
+"net_typical": 5863.724389513967,
+"net_worst": -4875.954858618689,
+"yields": {
+"bad": 1.372477754064422,
+"typical": 2.363085033588411,
+"good": 3.3898791813886415
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 6,
+"net_typical": 5601.189056826135,
+"net_worst": -4619.37148504755,
+"yields": {
+"bad": 6.023131140131155,
+"typical": 9.345030203193916,
+"good": 12.718920660829701
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 7,
+"net_typical": 1729.0282769648802,
+"net_worst": -3172.758256446433,
+"yields": {
+"bad": 0.24633829113595787,
+"typical": 0.7586096415377545,
+"good": 1.2815055402383746
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 8,
+"net_typical": 5017.918727450746,
+"net_worst": -6696.195324579095,
+"yields": {
+"bad": 3.1532724750949837,
+"typical": 5.431136211693658,
+"good": 7.87634460348077
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R38",
+"taluk": "Hirekeruru",
+"season": "Rabi",
+"area_acres": 1.5,
+"soil_ph": 5.6,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "paddy"
+},
+"district": "HAVERI",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R39",
+"taluk": "Ramadurga",
+"season": "Rabi",
+"area_acres": 1.6,
+"soil_ph": 8.2,
+"soil_type": "deep_black",
+"irrigation": "none",
+"previous_crop": "urad"
+},
+"district": "BELGAUM",
+"results": [
+{
+"crop": "wheat",
+"feasible": true,
+"rank": 1,
+"net_typical": 13171.99628796292,
+"net_worst": 2464.2882992019713,
+"yields": {
+"bad": 3.472290635098818,
+"typical": 6.145948504551349,
+"good": 10.089685486083159
+},
+"yield_method": "base_last_season",
+"price_base": 3337.25950730358
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 2,
+"net_typical": 10332.109582911724,
+"net_worst": -4474.9302398840955,
+"yields": {
+"bad": 1.7400536440657697,
+"typical": 3.1953551297047325,
+"good": 5.6114560712769705
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 7419.597523495631,
+"net_worst": -2149.411517578883,
+"yields": {
+"bad": 2.5640217520852886,
+"typical": 4.519796914988813,
+"good": 6.429129862125547
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 4,
+"net_typical": 5410.549607107734,
+"net_worst": -3752.490537967179,
+"yields": {
+"bad": 1.032615875029472,
+"typical": 2.4703045825974868,
+"good": 3.6112301344438156
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 5,
+"net_typical": 3144.355437203327,
+"net_worst": -6487.807811814542,
+"yields": {
+"bad": 0.9499871122914954,
+"typical": 2.230575527448461,
+"good": 3.4865792262682427
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R40",
+"taluk": "Hebri",
+"season": "Rabi",
+"area_acres": 2.0,
+"soil_ph": 6.9,
+"soil_type": "medium_black",
+"irrigation": "none",
+"previous_crop": "ragi"
+},
+"district": "UDUPI",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R41",
+"taluk": "Beluru",
+"season": "Rabi",
+"area_acres": 8.2,
+"soil_ph": 7.2,
+"soil_type": "shallow_black",
+"irrigation": "full",
+"previous_crop": "groundnut"
+},
+"district": "HASSAN",
+"results": [
+{
+"crop": "maize",
+"feasible": true,
+"rank": 1,
+"net_typical": 12003.069924392295,
+"net_worst": -123.75216814851228,
+"yields": {
+"bad": 9.279390343653727,
+"typical": 12.704820527463744,
+"good": 17.32801891846618
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 5381.637134202068,
+"net_worst": -3732.4382717676026,
+"yields": {
+"bad": 1.027097862872347,
+"typical": 2.4571039616810344,
+"good": 3.5919327245686588
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R42",
+"taluk": "Hosanagara",
+"season": "Rabi",
+"area_acres": 3.5,
+"soil_ph": 6.1,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "paddy"
+},
+"district": "SHIMOGA",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R43",
+"taluk": "Badami",
+"season": "Rabi",
+"area_acres": 7.4,
+"soil_ph": 6.5,
+"soil_type": "red",
+"irrigation": "protective",
+"previous_crop": "wheat"
+},
+"district": "BAGALKOT",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 14875.113882519987,
+"net_worst": -2433.1150995318785,
+"yields": {
+"bad": 2.033981624482285,
+"typical": 3.7351110637764777,
+"good": 6.559337164398081
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 2,
+"net_typical": 5826.889216949299,
+"net_worst": -4041.243171241078,
+"yields": {
+"bad": 1.1120752500920723,
+"typical": 2.660393523794397,
+"good": 3.8891128366460697
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 3,
+"net_typical": 6466.7612411687915,
+"net_worst": -3137.658290054318,
+"yields": {
+"bad": 2.5735100143079777,
+"typical": 4.536522599272824,
+"good": 6.4529211072450385
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 2844.4762196801803,
+"net_worst": -5869.0613727103355,
+"yields": {
+"bad": 0.8593862252160733,
+"typical": 2.0178440926102716,
+"good": 3.1540619040103866
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R44",
+"taluk": "Chikkodi",
+"season": "Kharif",
+"area_acres": 9.2,
+"soil_ph": 8.5,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "groundnut"
+},
+"district": "BELGAUM",
+"results": [
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 1,
+"net_typical": 9913.730698707697,
+"net_worst": 1734.8968694841806,
+"yields": {
+"bad": 3.239333028009952,
+"typical": 5.494972582528696,
+"good": 9.909493462915782
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 2,
+"net_typical": 7239.3804724177135,
+"net_worst": -2573.325106004854,
+"yields": {
+"bad": 1.1881588117916284,
+"typical": 2.0423858147005487,
+"good": 3.579415028174276
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 3,
+"net_typical": 7910.9959116648315,
+"net_worst": -6578.354709333809,
+"yields": {
+"bad": 1.8516671623705943,
+"typical": 3.188136890107792,
+"good": 4.5734278358922165
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 4,
+"net_typical": 5664.031947729403,
+"net_worst": -7558.405447893844,
+"yields": {
+"bad": 3.5592916125023217,
+"typical": 6.130455809739872,
+"good": 8.890512160228898
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R45",
+"taluk": "Gudibanda",
+"season": "Rabi",
+"area_acres": 6.8,
+"soil_ph": 6.3,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "moong"
+},
+"district": "CHIKBALLAPUR",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R46",
+"taluk": "Narasimharajapura",
+"season": "Rabi",
+"area_acres": 1.3,
+"soil_ph": 6.4,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "sunflower"
+},
+"district": "CHIKMAGALUR",
+"results": [
+{
+"crop": "gram",
+"feasible": true,
+"rank": 1,
+"net_typical": 6095.21561872219,
+"net_worst": -4227.341138519082,
+"yields": {
+"bad": 1.1632859629180357,
+"typical": 2.7829038024286965,
+"good": 4.0682052502293775
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 6997.002539939333,
+"net_worst": -2378.509443170644,
+"yields": {
+"bad": 2.512174098534543,
+"typical": 4.428401097313912,
+"good": 6.29912499869054
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R47",
+"taluk": "Manchenahalli",
+"season": "Rabi",
+"area_acres": 9.7,
+"soil_ph": 5.6,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "soybean"
+},
+"district": "CHIKBALLAPUR",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R48",
+"taluk": "Mudigere",
+"season": "Rabi",
+"area_acres": 1.5,
+"soil_ph": 7.4,
+"soil_type": "deep_black",
+"irrigation": "none",
+"previous_crop": "urad"
+},
+"district": "CHIKMAGALUR",
+"results": [
+{
+"crop": "gram",
+"feasible": true,
+"rank": 1,
+"net_typical": 6095.21561872219,
+"net_worst": -4227.341138519082,
+"yields": {
+"bad": 1.1632859629180357,
+"typical": 2.7829038024286965,
+"good": 4.0682052502293775
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 6997.002539939333,
+"net_worst": -2378.509443170644,
+"yields": {
+"bad": 2.512174098534543,
+"typical": 4.428401097313912,
+"good": 6.29912499869054
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R49",
+"taluk": "Ilkal",
+"season": "Kharif",
+"area_acres": 4.3,
+"soil_ph": 6.3,
+"soil_type": "deep_black",
+"irrigation": "full",
+"previous_crop": "jowar"
+},
+"district": "BAGALKOT",
+"results": [
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 1,
+"net_typical": 12434.316986181348,
+"net_worst": -2809.6768538767483,
+"yields": {
+"bad": 2.435092020122702,
+"typical": 3.949198642235185,
+"good": 6.571990216134347
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "bajra",
+"feasible": true,
+"rank": 2,
+"net_typical": 10709.269635327266,
+"net_worst": 231.90939201191304,
+"yields": {
+"bad": 4.149694172934673,
+"typical": 7.039244038506148,
+"good": 12.694393235961389
+},
+"yield_method": "base_last_season",
+"price_base": 2775.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 3,
+"net_typical": 9715.623817522253,
+"net_worst": -3061.630205369137,
+"yields": {
+"bad": 1.5471173405203615,
+"typical": 2.659417645686048,
+"good": 4.660803761289428
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 4,
+"net_typical": 12331.563862144787,
+"net_worst": -4649.4723926242805,
+"yields": {
+"bad": 10.007181879972052,
+"typical": 15.526379011425167,
+"good": 21.131957682575973
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "soybean",
+"feasible": true,
+"rank": 5,
+"net_typical": 7220.626334170893,
+"net_worst": -5479.284298331185,
+"yields": {
+"bad": 1.8480008280461009,
+"typical": 4.093182683009597,
+"good": 5.761390386769812
+},
+"yield_method": "base_hist_mean",
+"price_base": 5328.0
+},
+{
+"crop": "urad",
+"feasible": true,
+"rank": 6,
+"net_typical": 3719.420075961707,
+"net_worst": -3738.3974007054885,
+"yields": {
+"bad": 0.4580083781725233,
+"typical": 1.3358087699116767,
+"good": 2.0173021402592424
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 7,
+"net_typical": 1573.6648857774817,
+"net_worst": -2887.6672092342815,
+"yields": {
+"bad": 0.22420334239042694,
+"typical": 0.6904440897842264,
+"good": 1.1663547071320644
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R50",
+"taluk": "Ilkal",
+"season": "Kharif",
+"area_acres": 3.3,
+"soil_ph": 8.0,
+"soil_type": "red",
+"irrigation": "protective",
+"previous_crop": "bajra"
+},
+"district": "BAGALKOT",
+"results": [
+{
+"crop": "urad",
+"feasible": true,
+"rank": 1,
+"net_typical": 3719.420075961707,
+"net_worst": -3738.3974007054885,
+"yields": {
+"bad": 0.4580083781725233,
+"typical": 1.3358087699116767,
+"good": 2.0173021402592424
+},
+"yield_method": "base_hist_mean",
+"price_base": 7800.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 2,
+"net_typical": 1573.6648857774817,
+"net_worst": -2887.6672092342815,
+"yields": {
+"bad": 0.22420334239042694,
+"typical": 0.6904440897842264,
+"good": 1.1663547071320644
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "tur",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R51",
+"taluk": "Hukkeri",
+"season": "Rabi",
+"area_acres": 1.2,
+"soil_ph": 8.4,
+"soil_type": "medium_black",
+"irrigation": "none",
+"previous_crop": "bajra"
+},
+"district": "BELGAUM",
+"results": [
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 1,
+"net_typical": 10332.109582911724,
+"net_worst": -4474.9302398840955,
+"yields": {
+"bad": 1.7400536440657697,
+"typical": 3.1953551297047325,
+"good": 5.6114560712769705
+},
+"yield_method": "base_last_season",
+"price_base": 7721.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 7419.597523495631,
+"net_worst": -2149.411517578883,
+"yields": {
+"bad": 2.5640217520852886,
+"typical": 4.519796914988813,
+"good": 6.429129862125547
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "gram",
+"feasible": true,
+"rank": 3,
+"net_typical": 5410.549607107734,
+"net_worst": -3752.490537967179,
+"yields": {
+"bad": 1.032615875029472,
+"typical": 2.4703045825974868,
+"good": 3.6112301344438156
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "safflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 3144.355437203327,
+"net_worst": -6487.807811814542,
+"yields": {
+"bad": 0.9499871122914954,
+"typical": 2.230575527448461,
+"good": 3.4865792262682427
+},
+"yield_method": "base_hist_mean",
+"price_base": 6540.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R52",
+"taluk": "Devanahalli",
+"season": "Rabi",
+"area_acres": 3.4,
+"soil_ph": 7.7,
+"soil_type": "shallow_black",
+"irrigation": "none",
+"previous_crop": "moong"
+},
+"district": "BANGALORE RURAL",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R53",
+"taluk": "Devanahalli",
+"season": "Kharif",
+"area_acres": 7.9,
+"soil_ph": 8.0,
+"soil_type": "medium_black",
+"irrigation": "none",
+"previous_crop": "soybean"
+},
+"district": "BANGALORE RURAL",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 14988.908204875466,
+"net_worst": -4870.847551437339,
+"yields": {
+"bad": 2.404692937468711,
+"typical": 4.133547380581985,
+"good": 7.244312757770935
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R54",
+"taluk": "Arakalagudu",
+"season": "Kharif",
+"area_acres": 1.0,
+"soil_ph": 8.2,
+"soil_type": "medium_black",
+"irrigation": "protective",
+"previous_crop": "jowar"
+},
+"district": "HASSAN",
+"results": [
+{
+"crop": "tur",
+"feasible": true,
+"rank": 1,
+"net_typical": 7349.142080798261,
+"net_worst": -2777.982835679796,
+"yields": {
+"bad": 1.226229872226764,
+"typical": 2.1078280712504793,
+"good": 3.6941068728230313
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 2,
+"net_typical": 7004.248620853621,
+"net_worst": -5824.3528899309795,
+"yields": {
+"bad": 1.6394316610871296,
+"typical": 2.822717097186654,
+"good": 4.049227931579137
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "paddy",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "moong",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R55",
+"taluk": "Ramanagara",
+"season": "Rabi",
+"area_acres": 8.2,
+"soil_ph": 7.2,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "fallow"
+},
+"district": "RAMANAGARA",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R56",
+"taluk": "Badami",
+"season": "Rabi",
+"area_acres": 8.4,
+"soil_ph": 6.0,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "safflower"
+},
+"district": "BAGALKOT",
+"results": [
+{
+"crop": "gram",
+"feasible": true,
+"rank": 1,
+"net_typical": 5826.889216949299,
+"net_worst": -4041.243171241078,
+"yields": {
+"bad": 1.1120752500920723,
+"typical": 2.660393523794397,
+"good": 3.8891128366460697
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 6466.7612411687915,
+"net_worst": -3137.658290054318,
+"yields": {
+"bad": 2.5735100143079777,
+"typical": 4.536522599272824,
+"good": 6.4529211072450385
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R57",
+"taluk": "Yelaburga",
+"season": "Kharif",
+"area_acres": 1.1,
+"soil_ph": 6.6,
+"soil_type": "medium_black",
+"irrigation": "full",
+"previous_crop": "bajra"
+},
+"district": "KOPPAL",
+"results": [
+{
+"crop": "paddy",
+"feasible": true,
+"rank": 1,
+"net_typical": 17609.131397115372,
+"net_worst": 1823.8104775103566,
+"yields": {
+"bad": 19.172270063226367,
+"typical": 23.516553541139206,
+"good": 30.586998321711487
+},
+"yield_method": "model",
+"price_base": 2422.4213561274946
+},
+{
+"crop": "groundnut",
+"feasible": true,
+"rank": 2,
+"net_typical": 10265.252217751253,
+"net_worst": -2909.3656651578603,
+"yields": {
+"bad": 2.1045276724354522,
+"typical": 3.4130939438213375,
+"good": 5.679840908900376
+},
+"yield_method": "model",
+"price_base": 7263.0
+},
+{
+"crop": "tur",
+"feasible": true,
+"rank": 3,
+"net_typical": 6531.8154072260195,
+"net_worst": -2443.7412667641465,
+"yields": {
+"bad": 1.0867937153221832,
+"typical": 1.8681442629144103,
+"good": 3.2740452863230507
+},
+"yield_method": "model",
+"price_base": 8000.0
+},
+{
+"crop": "sunflower",
+"feasible": true,
+"rank": 4,
+"net_typical": 5863.724389513967,
+"net_worst": -4875.954858618689,
+"yields": {
+"bad": 1.372477754064422,
+"typical": 2.363085033588411,
+"good": 3.3898791813886415
+},
+"yield_method": "base_hist_mean",
+"price_base": 7721.0
+},
+{
+"crop": "maize",
+"feasible": true,
+"rank": 5,
+"net_typical": 5601.189056826135,
+"net_worst": -4619.37148504755,
+"yields": {
+"bad": 6.023131140131155,
+"typical": 9.345030203193916,
+"good": 12.718920660829701
+},
+"yield_method": "model",
+"price_base": 2400.0
+},
+{
+"crop": "moong",
+"feasible": true,
+"rank": 6,
+"net_typical": 1729.0282769648802,
+"net_worst": -3172.758256446433,
+"yields": {
+"bad": 0.24633829113595787,
+"typical": 0.7586096415377545,
+"good": 1.2815055402383746
+},
+"yield_method": "base_hist_mean",
+"price_base": 8768.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 7,
+"net_typical": 5017.918727450746,
+"net_worst": -6696.195324579095,
+"yields": {
+"bad": 3.1532724750949837,
+"typical": 5.431136211693658,
+"good": 7.87634460348077
+},
+"yield_method": "base_hist_mean",
+"price_base": 3699.0
+},
+{
+"crop": "ragi",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "bajra",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "urad",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "soybean",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R58",
+"taluk": "Doddaballapura",
+"season": "Rabi",
+"area_acres": 9.8,
+"soil_ph": 6.4,
+"soil_type": "red",
+"irrigation": "none",
+"previous_crop": "jowar"
+},
+"district": "BANGALORE RURAL",
+"results": [
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "jowar",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "gram",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+},
+{
+"input": {
+"field_id": "R59",
+"taluk": "Chikkamagaluru",
+"season": "Rabi",
+"area_acres": 0.6,
+"soil_ph": 7.1,
+"soil_type": "red",
+"irrigation": "full",
+"previous_crop": "urad"
+},
+"district": "CHIKMAGALUR",
+"results": [
+{
+"crop": "gram",
+"feasible": true,
+"rank": 1,
+"net_typical": 6095.21561872219,
+"net_worst": -4227.341138519082,
+"yields": {
+"bad": 1.1632859629180357,
+"typical": 2.7829038024286965,
+"good": 4.0682052502293775
+},
+"yield_method": "base_hist_mean",
+"price_base": 5875.0
+},
+{
+"crop": "jowar",
+"feasible": true,
+"rank": 2,
+"net_typical": 6997.002539939333,
+"net_worst": -2378.509443170644,
+"yields": {
+"bad": 2.512174098534543,
+"typical": 4.428401097313912,
+"good": 6.29912499869054
+},
+"yield_method": "model",
+"price_base": 3749.0
+},
+{
+"crop": "maize",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "groundnut",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "sunflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "wheat",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+},
+{
+"crop": "safflower",
+"feasible": false,
+"rank": null,
+"net_typical": null,
+"net_worst": null,
+"yields": null,
+"yield_method": null,
+"price_base": null
+}
+]
+}
+]

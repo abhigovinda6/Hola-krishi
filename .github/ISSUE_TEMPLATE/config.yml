@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Live demo
+    url: https://croppilot-rabi.vercel.app
+    about: The running Hola Krishi web app. This repository does not deploy that site.
