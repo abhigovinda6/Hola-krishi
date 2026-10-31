@@ -20,7 +20,7 @@ These are estimates, not guarantees. Yields are district averages, costs are all
 | Path | What it is |
 |---|---|
 | `croppilot/` | Python training code, engine, Streamlit UI, tests, cleaned CSVs, and saved models |
-| `croppilot-web/` | Next.js app (the live demo). The yield model runs as ONNX in the browser runtime on the server |
+| `croppilot-web/` | Next.js app (the live demo). The yield model runs server-side as ONNX (WebAssembly) |
 | `DATA.md` | Third-party data licences |
 | `CONTRIBUTING.md` | How to set up and where a first change can land |
 
